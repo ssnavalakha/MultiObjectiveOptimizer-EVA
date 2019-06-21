@@ -14,9 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="eva.core.framework">
-      <HintPath>..\eva.core.framework\bin\Debug\netcoreapp2.1\eva.core.framework.dll</HintPath>
-    </Reference>
+    <ProjectReference Include="..\eva.core.framework\eva.core.framework.csproj" />
   </ItemGroup>
 
 </Project>
