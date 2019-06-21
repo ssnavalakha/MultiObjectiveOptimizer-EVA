@@ -1,0 +1,175 @@
+﻿body {
+    background-color: rgb(255, 255, 255);
+}
+
+.jsgrid-header-row > .jsgrid-header-cell {
+    background-color: rgb(255, 255, 255);
+    font-family: "Roboto Slab";
+    font-weight: normal;
+    color: #03a87c;
+    border: none !important;
+    text-align: center;
+}
+
+.jsgrid-row > .jsgrid-cell {
+    background-color: rgb(255, 255, 255);
+    color: #03a87c;
+    border: none !important;
+    text-align: center;
+}
+
+/* alternate rows */
+.jsgrid-alt-row > .jsgrid-cell {
+    background-color: rgb(255, 255, 255);
+    color: #03a87c;
+    border: none !important;
+    text-align: center;
+}
+
+.jsgrid-grid-header {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.jsgrid-grid-body {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.jsgrid-pager a {
+    color: rgba(0,0,0,.84);
+    fill: rgba(0,0,0,.84);
+}
+
+.jsgrid-pager-page {
+    color: rgba(0,0,0,.84);
+    fill: rgba(0,0,0,.84);
+}
+
+#jsGrid {
+    margin: auto;
+    overflow: hidden;
+    padding-right: 16px;
+    width: 60% !important;
+    height: 400px !important;
+}
+
+#jsGrid-solutions {
+    width: 450px !important;
+    height: 450px !important;
+    font-size: 12px;
+    position: absolute;
+    top: 30%;
+    left: 38%;
+}
+
+#headline_finder {
+    margin-top: 20%;
+}
+
+.eva_buttons {
+    background-color: rgb(255, 255, 255);
+    color: #03a87c;
+    border-color: #029e74;
+    border: 1px solid;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    padding: 4px 17px;
+    cursor: pointer;
+}
+
+.headline_class {
+    font-size: 32px;
+    text-align: center;
+    color: rgba(0,0,0,.84);
+    fill: rgba(0,0,0,.84);
+}
+
+input[type="file"] {
+    display: none;
+}
+
+#run_button {
+    margin-left: 45%;
+}
+
+#add-rule {
+    margin-left: 45%;
+}
+
+.general_fonts {
+    font-family: medium-content-sans-serif-font,-apple-system,BlinkMacSystemFont, "Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell, "Open Sans","Helvetica Neue",sans-serif !important;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.custom-file-upload {
+    background-color: rgb(255, 255, 255);
+    color: #03a87c;
+    border-color: #029e74;
+    border: 1px solid;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 4px 8px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+#spinner {
+    margin-left: 50%;
+}
+
+.loader {
+    border: 5px solid #f3f3f3;
+    border-top: 5px solid #029e74;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.previous {
+    background-color: rgb(255, 255, 255);
+    color: #03a87c;
+    border-color: #029e74;
+    border: 1px solid;
+    padding: 7px 16px;
+    font-size: 20px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.round {
+    border-radius: 50%;
+}
+
+#overlay {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(255,255,255,.9);
+    z-index: 2;
+    cursor: pointer;
+}
+
+.ruleDivStyle {
+    margin-left: 35%;
+    padding: 20px;
+}

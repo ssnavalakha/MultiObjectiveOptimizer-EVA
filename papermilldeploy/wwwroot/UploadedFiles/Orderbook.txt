@@ -1,0 +1,11 @@
+orderid,productcode,duedate,highpriority,productioncycles
+0,3,145,false,9
+1,2,187,false,9
+2,2,32,false,8
+3,1,23,false,10
+4,4,183,false,7
+5,3,286,false,6
+6,3,178,false,5
+7,3,125,false,6
+8,3,137,false,7
+9,1,126,true,7

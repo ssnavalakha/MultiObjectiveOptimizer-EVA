@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\UploadedFiles\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\GridStyleSheet.css" />
+    <None Include="wwwroot\js\jsgrid\i18n\jsgrid-de.js" />
+    <None Include="wwwroot\js\jsgrid\i18n\jsgrid-es.js" />
+    <None Include="wwwroot\js\jsgrid\i18n\jsgrid-fr.js" />
+    <None Include="wwwroot\js\jsgrid\i18n\jsgrid-he.js" />
+    <None Include="wwwroot\js\jsgrid\i18n\jsgrid-ja.js" />
+    <None Include="wwwroot\js\jsgrid\i18n\jsgrid-ka.js" />
+    <None Include="wwwroot\js\jsgrid\i18n\jsgrid-pl.js" />
+    <None Include="wwwroot\js\jsgrid\i18n\jsgrid-pt-br.js" />
+    <None Include="wwwroot\js\jsgrid\i18n\jsgrid-pt.js" />
+    <None Include="wwwroot\js\jsgrid\i18n\jsgrid-ru.js" />
+    <None Include="wwwroot\js\jsgrid\i18n\jsgrid-tr.js" />
+    <None Include="wwwroot\js\jsgrid\i18n\jsgrid-zh-cn.js" />
+    <None Include="wwwroot\js\jsgrid\i18n\jsgrid-zh-tw.js" />
+    <None Include="wwwroot\js\jsgrid\jsgrid-theme.css" />
+    <None Include="wwwroot\js\jsgrid\jsgrid-theme.min.css" />
+    <None Include="wwwroot\js\jsgrid\jsgrid.css" />
+    <None Include="wwwroot\js\jsgrid\jsgrid.js" />
+    <None Include="wwwroot\js\jsgrid\jsgrid.min.css" />
+    <None Include="wwwroot\js\jsgrid\jsgrid.min.js" />
+    <None Include="wwwroot\js\papermill.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\eva.core.framework\eva.core.framework.csproj" />
+    <ProjectReference Include="..\eva.example.mill\eva.example.mill.csproj" />
+  </ItemGroup>
+
+</Project>
