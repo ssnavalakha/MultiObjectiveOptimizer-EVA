@@ -2,9 +2,9 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js"></script>
-    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
     <script src="~/js/papermill.js"></script>
     <link type="text/css" rel="stylesheet" href="~/js/jsgrid/jsgrid.min.css" />
     <link type="text/css" rel="stylesheet" href="~/js/jsgrid/jsgrid-theme.min.css" />
@@ -27,10 +27,10 @@
     <div id="jsGrid" class="general_fonts" style="display: none"></div>
 
     <div id="controls">
-        <input type="hidden" id="run_url" value="http://localhost:63305/api/Eva/runeva/" />
-        <input type="hidden" id="fetch_url" value="http://localhost:63305/api/Eva/fetchSolutionDetails/" />
-        <input type="hidden" id="fetch_objs" value="http://localhost:63305/api/Eva/getObjectives/" />
-        <input type="hidden" id="run_rules" value="http://localhost:63305/api/Eva/runWithRules/" />
+        <input type="hidden" id="run_url" value="https://multiobjectiveoptimizer.herokuapp.com/api/Eva/runeva/" />
+        <input type="hidden" id="fetch_url" value="https://multiobjectiveoptimizer.herokuapp.com/api/Eva/fetchSolutionDetails/" />
+        <input type="hidden" id="fetch_objs" value="https://multiobjectiveoptimizer.herokuapp.com/api/Eva/getObjectives/" />
+        <input type="hidden" id="run_rules" value="https://multiobjectiveoptimizer.herokuapp.com/api/Eva/runWithRules/" />
         <a class="eva_buttons general_fonts" id="run_button">Run</a>
         <label for="input_file" class="custom-file-upload general_fonts">
             Select File
