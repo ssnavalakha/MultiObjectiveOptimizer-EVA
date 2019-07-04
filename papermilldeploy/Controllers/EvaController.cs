@@ -15,10 +15,16 @@ using papermilldeploy.WebCore;
 
 namespace papermilldeploy.Controllers
 {
+    /// <summary>
+    /// Controller for handleing requests
+    /// </summary>
     [Route("api/[controller]")]
     [ApiController]
     public class EvaController : ControllerBase
     {
+        /// <summary>
+        /// The config file containing stuff
+        /// </summary>
         private IConfiguration _config;
         private readonly IHostingEnvironment environment;
 
@@ -122,10 +128,22 @@ namespace papermilldeploy.Controllers
             return SerializeAndReturn(collectioWrapper);
         }
 
+        /// <summary>
+        /// A class representing the structure of a rule
+        /// </summary>
         public class RuleElements
         {
+            /// <summary>
+            /// The left hand side of the rule
+            /// </summary>
             public String lhs { get;set;}
+            /// <summary>
+            /// The right hand side of the rule
+            /// </summary>
             public String rhs { get;set;}
+            /// <summary>
+            /// The equality sign of the rule
+            /// </summary>
             public String equality { get;set;}
         }
 

@@ -11,6 +11,9 @@ namespace eva.core.framework.framework
     /// </summary>
     public abstract class Resource
     {
+        /// <summary>
+        /// Empty Constructor used for resouces
+        /// </summary>
         public Resource(){}
     }
 }

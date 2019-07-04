@@ -1,0 +1,904 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="activate method">
+    <HelpKINode Title="Agent.activate Method " Url="html/776002ef-b61b-b400-b079-01c636494eaf.htm" />
+    <HelpKINode Title="AgentActivator.activate Method " Url="html/10034a05-f06b-1478-1877-de7127d315a6.htm" />
+    <HelpKINode Title="DefaultAgentActivator.activate Method " Url="html/be0518cb-dd8f-ccc4-3a74-d54972cb6b24.htm" />
+    <HelpKINode Title="IAgent.activate Method " Url="html/579c7f5d-e598-f1e4-b0f5-46fa115e0120.htm" />
+    <HelpKINode Title="IAgentActivator.activate Method " Url="html/ba2b5902-3bb6-d171-7593-59f26cf47791.htm" />
+    <HelpKINode Title="NonZeroPopulationActivator.activate Method " Url="html/4289e72e-158d-ac17-e771-9a0ea85b4d6f.htm" />
+    <HelpKINode Title="PopulationSizeRangeActivator.activate Method " Url="html/887a7466-af44-2acc-792c-3aa33e7f1a4b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="activator property">
+    <HelpKINode Title="Agent.activator Property " Url="html/84599cfb-53a7-f200-93e5-5cef35d3d27b.htm" />
+    <HelpKINode Title="IAgent.activator Property " Url="html/2b15e8af-a40d-2bbd-a981-e19c53e9ba55.htm" />
+  </HelpKINode>
+  <HelpKINode Title="active field" Url="html/0217a139-ed93-2523-7652-4e0dbfbdf41d.htm" />
+  <HelpKINode Title="addSolutions method" Url="html/8e0504e5-4a38-4972-6da1-d8fe1aad3b42.htm" />
+  <HelpKINode Title="Agent class">
+    <HelpKINode Title="Agent Class" Url="html/0f9f91fa-88c5-af62-7e95-b7ce5a3dc2b4.htm" />
+    <HelpKINode Title="constructor" Url="html/e8519138-3683-95e6-8743-2b8d96ea8008.htm" />
+    <HelpKINode Title="methods" Url="html/8d9c57d0-de7f-3458-34e8-4e2d65417b82.htm" />
+    <HelpKINode Title="properties" Url="html/4ccef50c-a1d5-c778-d681-9ad14cff68b4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Agent.activate method" Url="html/776002ef-b61b-b400-b079-01c636494eaf.htm" />
+  <HelpKINode Title="Agent.activator property" Url="html/84599cfb-53a7-f200-93e5-5cef35d3d27b.htm" />
+  <HelpKINode Title="Agent.Agent constructor" Url="html/e8519138-3683-95e6-8743-2b8d96ea8008.htm" />
+  <HelpKINode Title="Agent.assignBatchId method" Url="html/0ce8e757-808c-f836-16e4-3502073c8ace.htm" />
+  <HelpKINode Title="Agent.assignGenerator method" Url="html/6068529d-1f76-1366-edc9-b5e9f80b5e97.htm" />
+  <HelpKINode Title="Agent.assignStream method" Url="html/f237797a-6936-358d-04ab-54b23fcae407.htm" />
+  <HelpKINode Title="Agent.batchid property" Url="html/b55e2874-e696-7667-23b5-9162e8dd4e12.htm" />
+  <HelpKINode Title="Agent.generateId property" Url="html/4db03ebc-0bd2-6084-b8dd-d21632f118be.htm" />
+  <HelpKINode Title="Agent.insertIntoDatabase method" Url="html/a24b7551-0069-4be1-69df-48a644b5c7d0.htm" />
+  <HelpKINode Title="Agent.run method" Url="html/4fcde0ce-46c1-063e-b0be-e19f4765bc7e.htm" />
+  <HelpKINode Title="Agent.select method" Url="html/146b8412-40b5-9ba2-c867-fcf35ba2ce93.htm" />
+  <HelpKINode Title="Agent.selector property" Url="html/25c7d4d4-fdbd-fe60-f28c-ed8ee314f335.htm" />
+  <HelpKINode Title="AgentActivator class">
+    <HelpKINode Title="AgentActivator Class" Url="html/8ccc81fc-84a2-d6fd-8157-acc98f9b130f.htm" />
+    <HelpKINode Title="constructor" Url="html/92e02a95-6284-d53c-10b5-d646396d0313.htm" />
+    <HelpKINode Title="methods" Url="html/954a9246-fbf0-1ab5-103a-85ae78bd5a47.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AgentActivator.activate method" Url="html/10034a05-f06b-1478-1877-de7127d315a6.htm" />
+  <HelpKINode Title="AgentActivator.AgentActivator constructor" Url="html/92e02a95-6284-d53c-10b5-d646396d0313.htm" />
+  <HelpKINode Title="AgentAdvanceLateOrders class">
+    <HelpKINode Title="AgentAdvanceLateOrders Class" Url="html/56b90e21-96cc-b261-aee5-62f216726c27.htm" />
+    <HelpKINode Title="constructor" Url="html/4d80d257-f468-7407-1449-189ff62b3512.htm" />
+    <HelpKINode Title="methods" Url="html/7d18a9f5-3303-6cf4-5df9-fac536d5738c.htm" />
+    <HelpKINode Title="properties" Url="html/873e6b5a-43ca-9afc-2dcb-1ab06db175de.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AgentAdvanceLateOrders.AgentAdvanceLateOrders constructor" Url="html/4d80d257-f468-7407-1449-189ff62b3512.htm" />
+  <HelpKINode Title="AgentAdvanceLateOrders.runWithSolutions method" Url="html/4741a7b4-71d4-16e4-9bab-6c1713d8fcfd.htm" />
+  <HelpKINode Title="AgentAssignOrdersRandomly class">
+    <HelpKINode Title="AgentAssignOrdersRandomly Class" Url="html/7b98ed61-2064-9933-bd3f-590fb5d77211.htm" />
+    <HelpKINode Title="constructor" Url="html/ac2071e5-e0f8-58f7-e42b-7df749e89981.htm" />
+    <HelpKINode Title="methods" Url="html/41fcb719-d924-9d57-aafd-184e239171db.htm" />
+    <HelpKINode Title="properties" Url="html/16e4da9c-6169-7bf6-d10e-53d78bac191e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AgentAssignOrdersRandomly.AgentAssignOrdersRandomly constructor" Url="html/ac2071e5-e0f8-58f7-e42b-7df749e89981.htm" />
+  <HelpKINode Title="AgentAssignOrdersRandomly.createNewSolutions method" Url="html/5a33ad3a-6f14-7a04-70c5-c28fa2b8d382.htm" />
+  <HelpKINode Title="AgentMoveRandomOrder class">
+    <HelpKINode Title="AgentMoveRandomOrder Class" Url="html/e1c2b19f-6920-a6b5-ee96-2a2dcefb85f1.htm" />
+    <HelpKINode Title="constructor" Url="html/7d6356d3-077e-6b36-6730-2d84b6f72f9f.htm" />
+    <HelpKINode Title="methods" Url="html/c6fdb0a5-9e9c-f6e6-68c5-a93b4eb02421.htm" />
+    <HelpKINode Title="properties" Url="html/8838fa82-1565-e941-00cc-763b1b33f4c2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AgentMoveRandomOrder.AgentMoveRandomOrder constructor" Url="html/7d6356d3-077e-6b36-6730-2d84b6f72f9f.htm" />
+  <HelpKINode Title="AgentMoveRandomOrder.runWithSolutions method" Url="html/c79c98b5-09d3-b9d5-8414-21ac7bcc9daa.htm" />
+  <HelpKINode Title="AgentSortByDueDate class">
+    <HelpKINode Title="AgentSortByDueDate Class" Url="html/38a9e47b-9cda-9a54-80f6-2d9c627ccf80.htm" />
+    <HelpKINode Title="constructor" Url="html/f2ea4330-0d78-0991-6656-d24351bcfef7.htm" />
+    <HelpKINode Title="methods" Url="html/548c6d87-2593-a325-4ccb-f004e626c6e2.htm" />
+    <HelpKINode Title="properties" Url="html/7ec97fbd-7bea-9552-7a79-331f7241e5b8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AgentSortByDueDate.AgentSortByDueDate constructor" Url="html/f2ea4330-0d78-0991-6656-d24351bcfef7.htm" />
+  <HelpKINode Title="AgentSortByDueDate.runWithSolutions method" Url="html/02a51d1a-f66a-2652-1b16-737320909d60.htm" />
+  <HelpKINode Title="ArrayExtensions class">
+    <HelpKINode Title="ArrayExtensions Class" Url="html/237e46dd-32d6-7b48-8070-e02ca990ccfb.htm" />
+    <HelpKINode Title="methods" Url="html/882de88b-d86c-fdc0-52c0-f3f8cfee0446.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ArrayExtensions.ForEach method" Url="html/a27e2a45-c00a-f8dc-4054-37fd4c07e112.htm" />
+  <HelpKINode Title="assignBatchId method">
+    <HelpKINode Title="Agent.assignBatchId Method " Url="html/0ce8e757-808c-f836-16e4-3502073c8ace.htm" />
+    <HelpKINode Title="IAgent.assignBatchId Method " Url="html/ce2ac426-e294-3804-130d-24ec68bbde17.htm" />
+  </HelpKINode>
+  <HelpKINode Title="assignGenerator method">
+    <HelpKINode Title="Agent.assignGenerator Method " Url="html/6068529d-1f76-1366-edc9-b5e9f80b5e97.htm" />
+    <HelpKINode Title="IAgent.assignGenerator Method " Url="html/cf38b957-7921-cf78-e560-0be9ba695366.htm" />
+  </HelpKINode>
+  <HelpKINode Title="assignStream method">
+    <HelpKINode Title="Agent.assignStream Method " Url="html/f237797a-6936-358d-04ab-54b23fcae407.htm" />
+    <HelpKINode Title="IAgent.assignStream Method " Url="html/3f450b1f-9a5d-190b-e4dc-0f1d4b9eb56d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="batchid property">
+    <HelpKINode Title="Agent.batchid Property " Url="html/b55e2874-e696-7667-23b5-9162e8dd4e12.htm" />
+    <HelpKINode Title="ISolution.batchid Property " Url="html/44e5abb3-cfd2-dbc7-1be3-64049a0ce50b.htm" />
+    <HelpKINode Title="ISolutionManger.batchid Property " Url="html/7649a77c-2c07-c082-d1e8-a33462af63a4.htm" />
+    <HelpKINode Title="Solution.batchid Property " Url="html/03aedec8-aaa1-2ad6-9e95-cb4adc30791c.htm" />
+    <HelpKINode Title="SolutionManager.batchid Property " Url="html/908ba88c-7df5-4e8d-2eca-a30066751b05.htm" />
+  </HelpKINode>
+  <HelpKINode Title="cleanup method" Url="html/bb03ede0-7410-f95e-e6bf-b3b166b1fcb6.htm" />
+  <HelpKINode Title="Close method" Url="html/b538c321-0be3-8205-83c9-20071731444f.htm" />
+  <HelpKINode Title="ComparisonOperator property" Url="html/1946caf9-b62c-d795-f089-18fdea977a0a.htm" />
+  <HelpKINode Title="ComparisonPredicate property" Url="html/77b552e5-c26c-d04b-5a97-d51275662944.htm" />
+  <HelpKINode Title="ComparisonValue property" Url="html/061ad0d6-3172-d4f9-b482-72d3eb1022e5.htm" />
+  <HelpKINode Title="Configuration property" Url="html/288e711f-53d5-68b9-d20d-a17ad3e4ce64.htm" />
+  <HelpKINode Title="Configure method" Url="html/fc77ff0d-76c0-11e8-bf51-e0c274414ced.htm" />
+  <HelpKINode Title="ConfigureServices method" Url="html/8cd44c48-e376-f2e9-4696-e91695177b89.htm" />
+  <HelpKINode Title="Connection property" Url="html/ae77aae0-20a9-9ae2-2c23-1a655cc42082.htm" />
+  <HelpKINode Title="ConnectionRetriever property">
+    <HelpKINode Title="DbApi.ConnectionRetriever Property " Url="html/56326b1b-b9bd-497d-0edc-77b49ecfbb12.htm" />
+    <HelpKINode Title="IDbApi.ConnectionRetriever Property " Url="html/b7c407ff-f845-c462-a803-e5ed06023d64.htm" />
+    <HelpKINode Title="ISolutionManger.ConnectionRetriever Property " Url="html/4de90414-cadf-39a0-d3ad-e2dfd310dbdf.htm" />
+    <HelpKINode Title="SolutionManager.ConnectionRetriever Property " Url="html/b3a41925-7ca3-0abe-9762-9f19bbf3768b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Copy method" Url="html/a00d1165-7c83-aaa4-a486-aaca2ae76a0f.htm" />
+  <HelpKINode Title="createNewSolutions method">
+    <HelpKINode Title="AgentAssignOrdersRandomly.createNewSolutions Method " Url="html/5a33ad3a-6f14-7a04-70c5-c28fa2b8d382.htm" />
+    <HelpKINode Title="CreaterAgent.createNewSolutions Method " Url="html/b463e3d2-3365-4523-c77c-5020b67ea5b5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreaterAgent class">
+    <HelpKINode Title="CreaterAgent Class" Url="html/5e0d3c4d-96a7-9518-cdbe-32d8a9bd0725.htm" />
+    <HelpKINode Title="constructor" Url="html/ba05b4bf-f689-3125-701e-22d021086452.htm" />
+    <HelpKINode Title="methods" Url="html/1016ae58-7286-1295-6008-715023d58c9b.htm" />
+    <HelpKINode Title="properties" Url="html/68dc5e8a-1d9d-790a-acf5-d3e4224a7ca9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreaterAgent.createNewSolutions method" Url="html/b463e3d2-3365-4523-c77c-5020b67ea5b5.htm" />
+  <HelpKINode Title="CreaterAgent.CreaterAgent constructor" Url="html/ba05b4bf-f689-3125-701e-22d021086452.htm" />
+  <HelpKINode Title="CreaterAgent.run method" Url="html/9fd0180d-976a-f6eb-35cb-fad05ff98558.htm" />
+  <HelpKINode Title="createrAgents property">
+    <HelpKINode Title="ISolutionManger.createrAgents Property " Url="html/2283d169-25d5-7c0d-022a-33dc7afbb0b2.htm" />
+    <HelpKINode Title="SolutionManager.createrAgents Property " Url="html/30156fd0-15c8-158c-6035-9e06cca78a2e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreateRuleExpression(Of T) method" Url="html/17f41876-46c8-0424-e226-a6c7d7d2f7b4.htm" />
+  <HelpKINode Title="CreateRuleExpression&lt;T&gt; method" Url="html/17f41876-46c8-0424-e226-a6c7d7d2f7b4.htm" />
+  <HelpKINode Title="CreateWebHostBuilder method" Url="html/b2a7fbc2-eb93-82f4-22f8-4015df4cd3ba.htm" />
+  <HelpKINode Title="DbApi class">
+    <HelpKINode Title="DbApi Class" Url="html/9a74caa7-d6e5-f1f3-caff-2a77f8f3ae5c.htm" />
+    <HelpKINode Title="constructor" Url="html/a63302b1-0378-bff7-1e40-1c28bd04d3ec.htm" />
+    <HelpKINode Title="methods" Url="html/cc40910e-2224-40aa-8419-dd936536ac51.htm" />
+    <HelpKINode Title="properties" Url="html/a4220507-d966-5ed7-1b4b-e511af77a1c1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DbApi property">
+    <HelpKINode Title="ISolutionManger.DbApi Property " Url="html/8e193ab5-0ad9-8dcb-3627-74bd1472890b.htm" />
+    <HelpKINode Title="SolutionManager.DbApi Property " Url="html/bb55bb32-f59a-9413-f277-9a756cd94a16.htm" />
+  </HelpKINode>
+  <HelpKINode Title="dbapi property" Url="html/973079b0-618b-398e-4bfb-ef8052098a69.htm" />
+  <HelpKINode Title="DbApi.ConnectionRetriever property" Url="html/56326b1b-b9bd-497d-0edc-77b49ecfbb12.htm" />
+  <HelpKINode Title="DbApi.DbApi constructor" Url="html/a63302b1-0378-bff7-1e40-1c28bd04d3ec.htm" />
+  <HelpKINode Title="DbApi.fetchNewAvailableIds method" Url="html/8f1736b6-7499-1a82-227c-28b34b27ea55.htm" />
+  <HelpKINode Title="DbApi.FetchSerializedDataFromDb method" Url="html/8f182f4d-be9e-3f21-e253-24169145552e.htm" />
+  <HelpKINode Title="DbApi.getBatchId method" Url="html/da705fce-d01d-68cd-412a-93df38ec435f.htm" />
+  <HelpKINode Title="DbApi.getSolutionsForABatchId method" Url="html/fcd62659-45fa-d468-15ca-15d54366935b.htm" />
+  <HelpKINode Title="DbApi.insertIntoAllSolutions method" Url="html/8982869a-bf90-a2fe-7082-6477b4315421.htm" />
+  <HelpKINode Title="DbApi.insertIntoDeletedSolutions method" Url="html/da09b072-7041-2fdd-1842-9fb856dd068c.htm" />
+  <HelpKINode Title="DBConnection class">
+    <HelpKINode Title="DBConnection Class" Url="html/d83b48ac-eec3-0ca4-4b47-d2814b8f4050.htm" />
+    <HelpKINode Title="constructor" Url="html/b3ce9d18-6d43-fdd4-370d-78406fae9b1a.htm" />
+    <HelpKINode Title="methods" Url="html/4a86db72-b309-69e7-de5b-8d1d9ef2f9ba.htm" />
+    <HelpKINode Title="properties" Url="html/b3d51cc3-1979-6971-7d15-46987134e58c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DBConnection.Close method" Url="html/b538c321-0be3-8205-83c9-20071731444f.htm" />
+  <HelpKINode Title="DBConnection.Connection property" Url="html/ae77aae0-20a9-9ae2-2c23-1a655cc42082.htm" />
+  <HelpKINode Title="DBConnection.DBConnection constructor" Url="html/b3ce9d18-6d43-fdd4-370d-78406fae9b1a.htm" />
+  <HelpKINode Title="DBConnection.Dispose method" Url="html/49ae6bc5-fd44-ace6-f355-07b412d764e5.htm" />
+  <HelpKINode Title="DBConnection.Instance method" Url="html/85d66025-ee80-ba15-f8b9-79a601d955b1.htm" />
+  <HelpKINode Title="DBConnection.IsConnect method" Url="html/e1fc6128-3eda-e4ae-3843-359e3c4b8c43.htm" />
+  <HelpKINode Title="DefaultAgentActivator class">
+    <HelpKINode Title="DefaultAgentActivator Class" Url="html/5af921c3-df95-ab12-541a-a56c14cee224.htm" />
+    <HelpKINode Title="constructor" Url="html/9aeb3a33-b85b-cc93-b23b-f39590b46310.htm" />
+    <HelpKINode Title="methods" Url="html/a4aa67ec-e767-8265-0438-a08c7c2ee3bb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultAgentActivator.activate method" Url="html/be0518cb-dd8f-ccc4-3a74-d54972cb6b24.htm" />
+  <HelpKINode Title="DefaultAgentActivator.DefaultAgentActivator constructor" Url="html/9aeb3a33-b85b-cc93-b23b-f39590b46310.htm" />
+  <HelpKINode Title="DefaultSolutionSelector class">
+    <HelpKINode Title="DefaultSolutionSelector Class" Url="html/99ff1ed4-9816-9afd-9486-70df685a6526.htm" />
+    <HelpKINode Title="constructor" Url="html/356f1946-09ea-965a-17dd-6b7dea37494f.htm" />
+    <HelpKINode Title="methods" Url="html/503ae5b0-d0a6-d5ab-f465-4e1078d9245a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultSolutionSelector.DefaultSolutionSelector constructor" Url="html/356f1946-09ea-965a-17dd-6b7dea37494f.htm" />
+  <HelpKINode Title="DefaultSolutionSelector.select method" Url="html/5924997a-b307-a612-2b78-d46b1a9f7819.htm" />
+  <HelpKINode Title="destroy method">
+    <HelpKINode Title="DestroyerAgent.destroy Method " Url="html/683b93c8-6344-e7cf-04c0-bb79bca441d5.htm" />
+    <HelpKINode Title="RemoveDominatedSolutions.destroy Method " Url="html/034c2b4d-7b2c-a4c4-f795-87998f2499ea.htm" />
+    <HelpKINode Title="RemoveDuplicates.destroy Method " Url="html/85f63ff7-098a-db27-d163-5bd56b3ab1e6.htm" />
+    <HelpKINode Title="UserEnabledDestroyer.destroy Method " Url="html/6259f00a-cd9d-7427-3421-0f536a79f7b8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DestroyerAgent class">
+    <HelpKINode Title="DestroyerAgent Class" Url="html/521874e2-1b40-7ee9-9391-2b8f54e9a382.htm" />
+    <HelpKINode Title="constructor" Url="html/107cb40c-65af-3551-c9c9-ca1c3552d4bc.htm" />
+    <HelpKINode Title="fields" Url="html/1853b3c8-2ab6-d86d-4960-8c7d651e397b.htm" />
+    <HelpKINode Title="methods" Url="html/f4dca159-e750-fcea-eeef-5863c96e81b3.htm" />
+    <HelpKINode Title="properties" Url="html/fda32d83-1257-bbe3-86b0-15d7e8c04c43.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DestroyerAgent.destroy method" Url="html/683b93c8-6344-e7cf-04c0-bb79bca441d5.htm" />
+  <HelpKINode Title="DestroyerAgent.DestroyerAgent constructor" Url="html/107cb40c-65af-3551-c9c9-ca1c3552d4bc.htm" />
+  <HelpKINode Title="DestroyerAgent.run method" Url="html/288ae16d-eb41-809b-a0cd-0e6fd251758a.htm" />
+  <HelpKINode Title="DestroyerAgent.slnManager field" Url="html/78a136f1-5e23-c5ce-79e0-ccbc3e358307.htm" />
+  <HelpKINode Title="destroyerAgents property">
+    <HelpKINode Title="ISolutionManger.destroyerAgents Property " Url="html/851f2a6a-ce42-9cf4-c6c1-3935165e69fd.htm" />
+    <HelpKINode Title="SolutionManager.destroyerAgents Property " Url="html/81f3fd19-10fc-5475-ed4e-34d6fd6e20b6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Dispose method" Url="html/49ae6bc5-fd44-ace6-f355-07b412d764e5.htm" />
+  <HelpKINode Title="doClone method">
+    <HelpKINode Title="ISolution.doClone Method " Url="html/50e94cd8-31e5-33d0-97a9-f201546ad791.htm" />
+    <HelpKINode Title="ProductionSchedule.doClone Method " Url="html/05ca3a83-3378-a94e-57ab-4a239a3ad289.htm" />
+    <HelpKINode Title="Solution.doClone Method " Url="html/be6bae82-6b34-a7cf-3661-988f499ebd2e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="dueDate property" Url="html/953c7780-6911-e155-77ee-91b090dddfb4.htm" />
+  <HelpKINode Title="DuplicateSolutionSelector class">
+    <HelpKINode Title="DuplicateSolutionSelector Class" Url="html/652716bc-ff3a-157b-d83a-6e13bb3e9ae7.htm" />
+    <HelpKINode Title="constructor" Url="html/185b025b-f94a-732b-7a5a-ac5831fb100b.htm" />
+    <HelpKINode Title="methods" Url="html/abe646fe-a51f-72e9-dd90-60f9246513d3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DuplicateSolutionSelector.DuplicateSolutionSelector constructor" Url="html/185b025b-f94a-732b-7a5a-ac5831fb100b.htm" />
+  <HelpKINode Title="DuplicateSolutionSelector.select method" Url="html/20ef8b53-9a55-d06c-1bee-76c86655eaa2.htm" />
+  <HelpKINode Title="equality property" Url="html/d0224145-4467-c902-f9bb-ba8b7d3a88c8.htm" />
+  <HelpKINode Title="Equals method">
+    <HelpKINode Title="ProductionSchedule.Equals Method " Url="html/44a792e2-d98a-bdf0-d26f-61778945b8a8.htm" />
+    <HelpKINode Title="ReferenceEqualityComparer.Equals Method " Url="html/52b623aa-e1ca-6eb9-f48c-381ecf203b42.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ErrorViewModel class">
+    <HelpKINode Title="ErrorViewModel Class" Url="html/7239606b-f724-cd91-4bf0-267a9ed2ca2e.htm" />
+    <HelpKINode Title="constructor" Url="html/674b1f98-c95c-8313-5f87-df0399e8c07a.htm" />
+    <HelpKINode Title="methods" Url="html/96941545-5acd-e836-dcad-396f66d2c5fa.htm" />
+    <HelpKINode Title="properties" Url="html/043f4bb3-01a9-e2b0-9444-463c7c425142.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ErrorViewModel.ErrorViewModel constructor" Url="html/674b1f98-c95c-8313-5f87-df0399e8c07a.htm" />
+  <HelpKINode Title="ErrorViewModel.RequestId property" Url="html/524a3f4c-2809-bda0-1cd5-b618fcdc2bd2.htm" />
+  <HelpKINode Title="ErrorViewModel.ShowRequestId property" Url="html/afc6922c-f7b6-996e-ca5f-4a1ea89509e0.htm" />
+  <HelpKINode Title="eva.core.framework.framework namespace" Url="html/ef5b661a-8c52-a94b-4d37-bb17d4c4928a.htm" />
+  <HelpKINode Title="eva.core.framework.framework.Agent class" Url="html/0f9f91fa-88c5-af62-7e95-b7ce5a3dc2b4.htm" />
+  <HelpKINode Title="eva.core.framework.framework.AgentActivator class" Url="html/8ccc81fc-84a2-d6fd-8157-acc98f9b130f.htm" />
+  <HelpKINode Title="eva.core.framework.framework.ArrayExtensions class" Url="html/237e46dd-32d6-7b48-8070-e02ca990ccfb.htm" />
+  <HelpKINode Title="eva.core.framework.framework.CreaterAgent class" Url="html/5e0d3c4d-96a7-9518-cdbe-32d8a9bd0725.htm" />
+  <HelpKINode Title="eva.core.framework.framework.DefaultAgentActivator class" Url="html/5af921c3-df95-ab12-541a-a56c14cee224.htm" />
+  <HelpKINode Title="eva.core.framework.framework.DefaultSolutionSelector class" Url="html/99ff1ed4-9816-9afd-9486-70df685a6526.htm" />
+  <HelpKINode Title="eva.core.framework.framework.DestroyerAgent class" Url="html/521874e2-1b40-7ee9-9391-2b8f54e9a382.htm" />
+  <HelpKINode Title="eva.core.framework.framework.DuplicateSolutionSelector class" Url="html/652716bc-ff3a-157b-d83a-6e13bb3e9ae7.htm" />
+  <HelpKINode Title="eva.core.framework.framework.EvaluationResult class" Url="html/7502d7c3-dbd7-59e2-d2f2-5dad178980f8.htm" />
+  <HelpKINode Title="eva.core.framework.framework.IAgent interface" Url="html/6d8d2bb8-b160-4310-f193-d8be28644271.htm" />
+  <HelpKINode Title="eva.core.framework.framework.IAgentActivator interface" Url="html/2f286cde-c60e-6eb2-5b17-fee021775531.htm" />
+  <HelpKINode Title="eva.core.framework.framework.IConnectionRetriever interface" Url="html/0932e711-2138-f6d0-e329-08609f80bed6.htm" />
+  <HelpKINode Title="eva.core.framework.framework.IDbApi interface" Url="html/c6e5119f-ad42-163c-c117-c82b39b3d9a8.htm" />
+  <HelpKINode Title="eva.core.framework.framework.ISelector interface" Url="html/383efcdf-97d6-63ea-31b6-8d483efbf542.htm" />
+  <HelpKINode Title="eva.core.framework.framework.ISolution interface" Url="html/9dc64bc6-084e-9a2e-7d5b-c60a3b41eeaf.htm" />
+  <HelpKINode Title="eva.core.framework.framework.ISolutionManger interface" Url="html/afb302b2-237b-3231-5234-4df0c399ba6d.htm" />
+  <HelpKINode Title="eva.core.framework.framework.LimitedConcurrencyLevelTaskScheduler class" Url="html/63c9d912-af8a-96a7-a253-337a99e4baed.htm" />
+  <HelpKINode Title="eva.core.framework.framework.NonDominatedSolutionSelector class" Url="html/63ab500c-2015-a4da-dd7d-4e3d4e46e60a.htm" />
+  <HelpKINode Title="eva.core.framework.framework.NonZeroPopulationActivator class" Url="html/271e7a3a-4b0a-dd8c-c66e-b9b80bdd6857.htm" />
+  <HelpKINode Title="eva.core.framework.framework.ObjectExtensions class" Url="html/3af897a5-072a-b7a0-b427-e0517c20fef7.htm" />
+  <HelpKINode Title="eva.core.framework.framework.Objective class" Url="html/f518a921-a4fb-a141-ab2e-43d11c39175c.htm" />
+  <HelpKINode Title="eva.core.framework.framework.PopulationSizeRangeActivator class" Url="html/26845ca7-aecf-3f36-6fe6-6c3676f55a37.htm" />
+  <HelpKINode Title="eva.core.framework.framework.RandomSolutionSelector class" Url="html/518c4d06-cd1f-4b0f-e2ad-f912d8ff399e.htm" />
+  <HelpKINode Title="eva.core.framework.framework.ReferenceEqualityComparer class" Url="html/4da41233-e43e-91d9-beca-02233aa51b0a.htm" />
+  <HelpKINode Title="eva.core.framework.framework.RemoveDominatedSolutions class" Url="html/a5351ab0-2775-4535-861b-ce0ac85aaf8a.htm" />
+  <HelpKINode Title="eva.core.framework.framework.RemoveDuplicates class" Url="html/2e65b8d9-a7a4-e8b1-b198-12e1fc6c6171.htm" />
+  <HelpKINode Title="eva.core.framework.framework.Resource class" Url="html/dfd5cab7-fc59-9184-c060-84ec7ad5bebe.htm" />
+  <HelpKINode Title="eva.core.framework.framework.Rule class" Url="html/5b685bfa-839a-c694-f238-d2497a872e81.htm" />
+  <HelpKINode Title="eva.core.framework.framework.RulesExpressionGenerator class" Url="html/d1a8bdd9-7cf2-9875-c5a1-23ccfb1e9825.htm" />
+  <HelpKINode Title="eva.core.framework.framework.SecureRandom class" Url="html/6a11ae2c-2743-fe3f-d0d9-4464c0c50163.htm" />
+  <HelpKINode Title="eva.core.framework.framework.Selectors class" Url="html/fa8e65d8-a4d2-fe10-5ad1-36f9a71e6145.htm" />
+  <HelpKINode Title="eva.core.framework.framework.Solution class" Url="html/c9064e16-74f5-c16e-aaf3-0cd6413bd209.htm" />
+  <HelpKINode Title="eva.core.framework.framework.SolutionIdGenerator class" Url="html/38cf7fa9-335f-773f-c749-5b825c8ce110.htm" />
+  <HelpKINode Title="eva.core.framework.framework.SolutionManager class" Url="html/bda5f085-8948-97cd-4cd1-7dd390e1ae73.htm" />
+  <HelpKINode Title="eva.core.framework.framework.TextFileReader(Of T) class" Url="html/53257085-0ebe-c24b-1cf2-c92f271760a6.htm" />
+  <HelpKINode Title="eva.core.framework.framework.TextFileReader&lt;T&gt; class" Url="html/53257085-0ebe-c24b-1cf2-c92f271760a6.htm" />
+  <HelpKINode Title="eva.core.framework.framework.UserEnabledDestroyer class" Url="html/ac44a28d-45a8-45b9-52f7-f72035bfd8bd.htm" />
+  <HelpKINode Title="eva.core.framework.framework.UserEnabledSelectors class" Url="html/a9e320cd-8a37-c1b3-06cd-04849b774395.htm" />
+  <HelpKINode Title="eva.core.framework.framework.WorkerAgent class" Url="html/f03fd5ba-2ee4-49c8-1397-fe9bcc19aa95.htm" />
+  <HelpKINode Title="eva.example.mill.mill namespace" Url="html/b8fde518-2fa5-b4f6-747f-f2dec937c79e.htm" />
+  <HelpKINode Title="eva.example.mill.mill.AgentAdvanceLateOrders class" Url="html/56b90e21-96cc-b261-aee5-62f216726c27.htm" />
+  <HelpKINode Title="eva.example.mill.mill.AgentAssignOrdersRandomly class" Url="html/7b98ed61-2064-9933-bd3f-590fb5d77211.htm" />
+  <HelpKINode Title="eva.example.mill.mill.AgentMoveRandomOrder class" Url="html/e1c2b19f-6920-a6b5-ee96-2a2dcefb85f1.htm" />
+  <HelpKINode Title="eva.example.mill.mill.AgentSortByDueDate class" Url="html/38a9e47b-9cda-9a54-80f6-2d9c627ccf80.htm" />
+  <HelpKINode Title="eva.example.mill.mill.DbApi class" Url="html/9a74caa7-d6e5-f1f3-caff-2a77f8f3ae5c.htm" />
+  <HelpKINode Title="eva.example.mill.mill.DBConnection class" Url="html/d83b48ac-eec3-0ca4-4b47-d2814b8f4050.htm" />
+  <HelpKINode Title="eva.example.mill.mill.MillConfiguration class" Url="html/f454e289-a452-0416-311c-7253d941144a.htm" />
+  <HelpKINode Title="eva.example.mill.mill.MillProductionResources class" Url="html/d3d27abc-86f3-3214-d417-3cc38b59f5b3.htm" />
+  <HelpKINode Title="eva.example.mill.mill.ObjectiveLateHighPriorityOrders class" Url="html/54e1aca1-4970-4a0e-f3a5-0d82ffdfedd0.htm" />
+  <HelpKINode Title="eva.example.mill.mill.ObjectiveLateOrders class" Url="html/06017eae-13e3-bb09-6201-16acd0c0cda9.htm" />
+  <HelpKINode Title="eva.example.mill.mill.ObjectiveMachineBalancing class" Url="html/b8034949-c534-2cc1-7e72-e568041c38e7.htm" />
+  <HelpKINode Title="eva.example.mill.mill.ObjectiveSetups class" Url="html/d190d55f-c95a-0b8e-aa00-239c93ff9aa4.htm" />
+  <HelpKINode Title="eva.example.mill.mill.Order class" Url="html/1205360d-30c0-ac09-9f81-8f61256479f4.htm" />
+  <HelpKINode Title="eva.example.mill.mill.OrderBook class" Url="html/ecffb3da-d960-3959-6254-c5311c25f3c0.htm" />
+  <HelpKINode Title="eva.example.mill.mill.ProductionSchedule class" Url="html/3a55fa32-6988-8bc3-bacb-4fd9c53771bd.htm" />
+  <HelpKINode Title="eva.example.mill.mill.ProductionSolutionManager class" Url="html/261b565b-491e-747e-5012-53acfa4059a6.htm" />
+  <HelpKINode Title="EvaController class">
+    <HelpKINode Title="EvaController Class" Url="html/fbc8c468-8fc8-be5e-ac96-2e8aea9be76c.htm" />
+    <HelpKINode Title="constructor" Url="html/61485eb0-ab84-ef3d-45c6-e51ccd80dcfb.htm" />
+    <HelpKINode Title="methods" Url="html/e55f8ba7-2acb-0828-b025-bbf4c351e9b3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EvaController.EvaController constructor" Url="html/61485eb0-ab84-ef3d-45c6-e51ccd80dcfb.htm" />
+  <HelpKINode Title="EvaController.fetchSolutionDetails method" Url="html/a84ac534-3877-ee38-20f5-b20ef24966f4.htm" />
+  <HelpKINode Title="EvaController.getObjectives method" Url="html/398b07c4-ef2d-87b3-7589-b39d8c524d93.htm" />
+  <HelpKINode Title="EvaController.RuleElements class">
+    <HelpKINode Title="EvaController.RuleElements Class" Url="html/3ba8f358-df96-bebf-8131-0df2b0efd358.htm" />
+    <HelpKINode Title="constructor" Url="html/2a65a7fb-9416-e294-cb9f-834102283931.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EvaController.RuleElements.equality property" Url="html/d0224145-4467-c902-f9bb-ba8b7d3a88c8.htm" />
+  <HelpKINode Title="EvaController.RuleElements.lhs property" Url="html/776deb9c-a9a1-132d-5553-b257c751366a.htm" />
+  <HelpKINode Title="EvaController.RuleElements.rhs property" Url="html/2fc05322-df21-b724-4c0d-e0200ec99296.htm" />
+  <HelpKINode Title="EvaController.RuleElements.RuleElements constructor" Url="html/2a65a7fb-9416-e294-cb9f-834102283931.htm" />
+  <HelpKINode Title="EvaController.runeva method" Url="html/2c693262-1f0b-0d87-b8db-de6f6d98867b.htm" />
+  <HelpKINode Title="EvaController.runWithRules method" Url="html/1acd6b5d-5f2e-e37c-0a7a-a7a3a776ee3d.htm" />
+  <HelpKINode Title="evaluate method">
+    <HelpKINode Title="Objective.evaluate Method " Url="html/2978d51e-c400-80e7-1694-96e87cb6658e.htm" />
+    <HelpKINode Title="ObjectiveLateHighPriorityOrders.evaluate Method " Url="html/cbac7b0d-c39d-e590-3662-3fedeee0283a.htm" />
+    <HelpKINode Title="ObjectiveLateOrders.evaluate Method " Url="html/7e875d03-b59b-b983-cd82-c122d6a64587.htm" />
+    <HelpKINode Title="ObjectiveMachineBalancing.evaluate Method " Url="html/24e49be5-a1d7-7c99-b221-95e764e98b46.htm" />
+    <HelpKINode Title="ObjectiveSetups.evaluate Method " Url="html/15d36d3d-86a6-57ae-6fd8-07357be3d2cb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EvaluationResult class">
+    <HelpKINode Title="EvaluationResult Class" Url="html/7502d7c3-dbd7-59e2-d2f2-5dad178980f8.htm" />
+    <HelpKINode Title="constructor" Url="html/5bd36a94-13ae-1f1f-e964-a2b54c47ee14.htm" />
+    <HelpKINode Title="methods" Url="html/97df90e4-8a9f-5f9d-bccf-751dec739919.htm" />
+    <HelpKINode Title="properties" Url="html/1d4f675b-d06f-b19d-c396-43e052007b41.htm" />
+  </HelpKINode>
+  <HelpKINode Title="evaluationResult property" Url="html/14ea75cf-c68e-db55-b2da-dfb76e27f3d0.htm" />
+  <HelpKINode Title="EvaluationResult.EvaluationResult constructor" Url="html/5bd36a94-13ae-1f1f-e964-a2b54c47ee14.htm" />
+  <HelpKINode Title="EvaluationResult.evaluationResult property" Url="html/14ea75cf-c68e-db55-b2da-dfb76e27f3d0.htm" />
+  <HelpKINode Title="EvaluationResult.objectiveName property" Url="html/7966f283-a675-97e8-d048-15a5ef68d3ae.htm" />
+  <HelpKINode Title="fetchBatchId method" Url="html/d738a604-91af-cede-df07-012826c56b1a.htm" />
+  <HelpKINode Title="fetchNewAvailableIds method">
+    <HelpKINode Title="DbApi.fetchNewAvailableIds Method " Url="html/8f1736b6-7499-1a82-227c-28b34b27ea55.htm" />
+    <HelpKINode Title="IDbApi.fetchNewAvailableIds Method " Url="html/67690647-6452-0e31-112a-90bc39f4eb23.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FetchSerializedDataFromDb method">
+    <HelpKINode Title="DbApi.FetchSerializedDataFromDb Method " Url="html/8f182f4d-be9e-3f21-e253-24169145552e.htm" />
+    <HelpKINode Title="IDbApi.FetchSerializedDataFromDb Method " Url="html/7854c2e2-95e3-2ad6-7966-0aa6211b7e82.htm" />
+  </HelpKINode>
+  <HelpKINode Title="fetchSolutionDetails method" Url="html/a84ac534-3877-ee38-20f5-b20ef24966f4.htm" />
+  <HelpKINode Title="ForEach method" Url="html/a27e2a45-c00a-f8dc-4054-37fd4c07e112.htm" />
+  <HelpKINode Title="gen property">
+    <HelpKINode Title="ISolutionManger.gen Property " Url="html/3877fa6e-1f16-70a0-cfc4-672fc4e11b7c.htm" />
+    <HelpKINode Title="SolutionManager.gen Property " Url="html/dbd58c1c-c931-b33c-d3f3-e9e07a5da2a0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="generateId property" Url="html/4db03ebc-0bd2-6084-b8dd-d21632f118be.htm" />
+  <HelpKINode Title="getBatchId method">
+    <HelpKINode Title="DbApi.getBatchId Method " Url="html/da705fce-d01d-68cd-412a-93df38ec435f.htm" />
+    <HelpKINode Title="IDbApi.getBatchId Method " Url="html/95f145fd-a0a7-4252-dfa1-13732da01cb3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetBytes method" Url="html/8050af8d-eeef-bd58-7be1-cfefbc4a35c0.htm" />
+  <HelpKINode Title="GetHashCode method">
+    <HelpKINode Title="ProductionSchedule.GetHashCode Method " Url="html/1490f845-d85e-8ef9-a164-b5d20e34d848.htm" />
+    <HelpKINode Title="ReferenceEqualityComparer.GetHashCode Method " Url="html/f11b7098-197a-c728-289f-b35752c09171.htm" />
+  </HelpKINode>
+  <HelpKINode Title="getId method" Url="html/789649ee-de04-2f9a-4a57-e1d768d364b4.htm" />
+  <HelpKINode Title="GetNonZeroBytes method" Url="html/8ec4939e-b999-a6bf-b9ef-eb3b84ae6799.htm" />
+  <HelpKINode Title="GetObjectData method" Url="html/a7b6702c-bddd-2062-4583-c64c78ab1787.htm" />
+  <HelpKINode Title="getObjectives method" Url="html/398b07c4-ef2d-87b3-7589-b39d8c524d93.htm" />
+  <HelpKINode Title="getProposedOrder method" Url="html/4fa1635f-1927-f80c-bf08-520083d31931.htm" />
+  <HelpKINode Title="GetResource method" Url="html/8e943460-d585-e37c-87eb-68b73acc9d68.htm" />
+  <HelpKINode Title="getResources method" Url="html/36304259-fbfc-e724-b074-ef99f74e7bf9.htm" />
+  <HelpKINode Title="GetScheduledTasks method" Url="html/52a49fc4-3311-ae56-9d74-bd22eddc335d.htm" />
+  <HelpKINode Title="getSolutionsForABatchId method">
+    <HelpKINode Title="DbApi.getSolutionsForABatchId Method " Url="html/fcd62659-45fa-d468-15ca-15d54366935b.htm" />
+    <HelpKINode Title="IDbApi.getSolutionsForABatchId Method " Url="html/1187116c-711b-cf28-1000-671a9a7f7656.htm" />
+    <HelpKINode Title="ProductionSolutionManager.getSolutionsForABatchId Method " Url="html/15bfbd5c-5287-beba-e77f-c9b0d7f4bdfe.htm" />
+    <HelpKINode Title="SolutionManager.getSolutionsForABatchId Method " Url="html/febe19f3-951f-bf3b-e5ea-5d2039a1e636.htm" />
+  </HelpKINode>
+  <HelpKINode Title="highPriority property" Url="html/44991e4c-470f-4b56-6d40-9707d4df53dd.htm" />
+  <HelpKINode Title="IAgent interface">
+    <HelpKINode Title="IAgent Interface" Url="html/6d8d2bb8-b160-4310-f193-d8be28644271.htm" />
+    <HelpKINode Title="methods" Url="html/8827559c-23bf-6dff-9e6b-9bdafa0bb3d8.htm" />
+    <HelpKINode Title="properties" Url="html/ccaa83a6-4d00-ca39-d593-7515c9d8d43e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAgent.activate method" Url="html/579c7f5d-e598-f1e4-b0f5-46fa115e0120.htm" />
+  <HelpKINode Title="IAgent.activator property" Url="html/2b15e8af-a40d-2bbd-a981-e19c53e9ba55.htm" />
+  <HelpKINode Title="IAgent.assignBatchId method" Url="html/ce2ac426-e294-3804-130d-24ec68bbde17.htm" />
+  <HelpKINode Title="IAgent.assignGenerator method" Url="html/cf38b957-7921-cf78-e560-0be9ba695366.htm" />
+  <HelpKINode Title="IAgent.assignStream method" Url="html/3f450b1f-9a5d-190b-e4dc-0f1d4b9eb56d.htm" />
+  <HelpKINode Title="IAgent.insertIntoDatabase method" Url="html/71bc89c8-40c0-480c-a845-230d217389a1.htm" />
+  <HelpKINode Title="IAgent.run method" Url="html/4e4be559-fd02-2aca-d6b4-74664a35a1f7.htm" />
+  <HelpKINode Title="IAgent.select method" Url="html/0f075380-4cd4-10fb-0f0a-9bf23da6b286.htm" />
+  <HelpKINode Title="IAgent.selector property" Url="html/c0047087-6b12-1217-24c7-3698f2715be8.htm" />
+  <HelpKINode Title="IAgentActivator interface">
+    <HelpKINode Title="IAgentActivator Interface" Url="html/2f286cde-c60e-6eb2-5b17-fee021775531.htm" />
+    <HelpKINode Title="methods" Url="html/3625d360-0a9c-c658-0c9c-c8a02feb6f3c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAgentActivator.activate method" Url="html/ba2b5902-3bb6-d171-7593-59f26cf47791.htm" />
+  <HelpKINode Title="IConnectionRetriever interface">
+    <HelpKINode Title="IConnectionRetriever Interface" Url="html/0932e711-2138-f6d0-e329-08609f80bed6.htm" />
+    <HelpKINode Title="properties" Url="html/dbb53b4e-5f45-a5e9-c0cc-d86fffd75a12.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IConnectionRetriever.RetrieveConnection property" Url="html/a484fc10-e0e5-72bc-65b3-4f7cdc3fe872.htm" />
+  <HelpKINode Title="IDbApi interface">
+    <HelpKINode Title="IDbApi Interface" Url="html/c6e5119f-ad42-163c-c117-c82b39b3d9a8.htm" />
+    <HelpKINode Title="methods" Url="html/795fbe80-b75e-4fa1-71c6-e21d9e0ea474.htm" />
+    <HelpKINode Title="properties" Url="html/85f9eadb-12a6-5a2e-24a2-f31e9c6b4627.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IDbApi.ConnectionRetriever property" Url="html/b7c407ff-f845-c462-a803-e5ed06023d64.htm" />
+  <HelpKINode Title="IDbApi.fetchNewAvailableIds method" Url="html/67690647-6452-0e31-112a-90bc39f4eb23.htm" />
+  <HelpKINode Title="IDbApi.FetchSerializedDataFromDb method" Url="html/7854c2e2-95e3-2ad6-7966-0aa6211b7e82.htm" />
+  <HelpKINode Title="IDbApi.getBatchId method" Url="html/95f145fd-a0a7-4252-dfa1-13732da01cb3.htm" />
+  <HelpKINode Title="IDbApi.getSolutionsForABatchId method" Url="html/1187116c-711b-cf28-1000-671a9a7f7656.htm" />
+  <HelpKINode Title="IDbApi.insertIntoAllSolutions method" Url="html/45d4826f-2314-b085-7eec-5b38242134fa.htm" />
+  <HelpKINode Title="IDbApi.insertIntoDeletedSolutions method" Url="html/140b2556-e570-eb39-a6c8-faafd268130c.htm" />
+  <HelpKINode Title="Index method" Url="html/13faff9b-df14-bd64-2b30-4fb0bd11f9f0.htm" />
+  <HelpKINode Title="insertIntoAllSolutions method">
+    <HelpKINode Title="DbApi.insertIntoAllSolutions Method " Url="html/8982869a-bf90-a2fe-7082-6477b4315421.htm" />
+    <HelpKINode Title="IDbApi.insertIntoAllSolutions Method " Url="html/45d4826f-2314-b085-7eec-5b38242134fa.htm" />
+  </HelpKINode>
+  <HelpKINode Title="insertIntoDatabase method">
+    <HelpKINode Title="Agent.insertIntoDatabase Method " Url="html/a24b7551-0069-4be1-69df-48a644b5c7d0.htm" />
+    <HelpKINode Title="IAgent.insertIntoDatabase Method " Url="html/71bc89c8-40c0-480c-a845-230d217389a1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="insertIntoDeletedSolutions method">
+    <HelpKINode Title="DbApi.insertIntoDeletedSolutions Method " Url="html/da09b072-7041-2fdd-1842-9fb856dd068c.htm" />
+    <HelpKINode Title="IDbApi.insertIntoDeletedSolutions Method " Url="html/140b2556-e570-eb39-a6c8-faafd268130c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Instance method" Url="html/85d66025-ee80-ba15-f8b9-79a601d955b1.htm" />
+  <HelpKINode Title="isAsc field" Url="html/4f22fbbb-c4fd-3aa8-3c36-3765ed422a9f.htm" />
+  <HelpKINode Title="IsConnect method" Url="html/e1fc6128-3eda-e4ae-3843-359e3c4b8c43.htm" />
+  <HelpKINode Title="ISelector interface">
+    <HelpKINode Title="ISelector Interface" Url="html/383efcdf-97d6-63ea-31b6-8d483efbf542.htm" />
+    <HelpKINode Title="methods" Url="html/98775387-7e70-e1f5-21ac-09e6b6a681f5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ISelector.select method" Url="html/aa02b485-87b1-5554-76f2-5ef3e3cf7bfd.htm" />
+  <HelpKINode Title="ISolution interface">
+    <HelpKINode Title="ISolution Interface" Url="html/9dc64bc6-084e-9a2e-7d5b-c60a3b41eeaf.htm" />
+    <HelpKINode Title="methods" Url="html/64a0842b-3e1f-a07a-d3e7-19c520fc81d8.htm" />
+    <HelpKINode Title="properties" Url="html/db5f6b0f-2e09-77cc-85ee-7ee81cbd78ab.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ISolution.batchid property" Url="html/44e5abb3-cfd2-dbc7-1be3-64049a0ce50b.htm" />
+  <HelpKINode Title="ISolution.doClone method" Url="html/50e94cd8-31e5-33d0-97a9-f201546ad791.htm" />
+  <HelpKINode Title="ISolution.objectiveEvaluation property" Url="html/656c06ff-ddd6-3838-ca54-9684a3dc8666.htm" />
+  <HelpKINode Title="ISolution.solutionid property" Url="html/497aaed1-efa2-76a7-293f-7c691f08f10b.htm" />
+  <HelpKINode Title="ISolutionManger interface">
+    <HelpKINode Title="ISolutionManger Interface" Url="html/afb302b2-237b-3231-5234-4df0c399ba6d.htm" />
+    <HelpKINode Title="methods" Url="html/7aaf8de4-0a70-67d9-a53b-9d7622f275a3.htm" />
+    <HelpKINode Title="properties" Url="html/8d91ccdd-5c2a-dd58-51bb-1b2b758f8598.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ISolutionManger.batchid property" Url="html/7649a77c-2c07-c082-d1e8-a33462af63a4.htm" />
+  <HelpKINode Title="ISolutionManger.ConnectionRetriever property" Url="html/4de90414-cadf-39a0-d3ad-e2dfd310dbdf.htm" />
+  <HelpKINode Title="ISolutionManger.createrAgents property" Url="html/2283d169-25d5-7c0d-022a-33dc7afbb0b2.htm" />
+  <HelpKINode Title="ISolutionManger.DbApi property" Url="html/8e193ab5-0ad9-8dcb-3627-74bd1472890b.htm" />
+  <HelpKINode Title="ISolutionManger.destroyerAgents property" Url="html/851f2a6a-ce42-9cf4-c6c1-3935165e69fd.htm" />
+  <HelpKINode Title="ISolutionManger.gen property" Url="html/3877fa6e-1f16-70a0-cfc4-672fc4e11b7c.htm" />
+  <HelpKINode Title="ISolutionManger.objs property" Url="html/901f0ca4-a96e-fc47-416c-f8c5c27b2f87.htm" />
+  <HelpKINode Title="ISolutionManger.population property" Url="html/e493d909-f214-8428-6e5c-b292cbbe5667.htm" />
+  <HelpKINode Title="ISolutionManger.printStuff method" Url="html/cbeca989-8b80-fc4d-061e-e94c5b0ab840.htm" />
+  <HelpKINode Title="ISolutionManger.rerun method" Url="html/81d29277-b25e-3684-279d-609cca4c6825.htm" />
+  <HelpKINode Title="ISolutionManger.run method" Url="html/d78e0033-b3f8-3f03-f2cb-b358afbdb8a2.htm" />
+  <HelpKINode Title="ISolutionManger.workerAgents property" Url="html/08ca9077-dbd4-c1f4-62f6-20b1d22f46f3.htm" />
+  <HelpKINode Title="IsPrimitive method" Url="html/a20abf90-53aa-94d2-328b-d7392c3045fa.htm" />
+  <HelpKINode Title="lhs property" Url="html/776deb9c-a9a1-132d-5553-b257c751366a.htm" />
+  <HelpKINode Title="LimitedConcurrencyLevelTaskScheduler class">
+    <HelpKINode Title="LimitedConcurrencyLevelTaskScheduler Class" Url="html/63c9d912-af8a-96a7-a253-337a99e4baed.htm" />
+    <HelpKINode Title="constructor" Url="html/c9619780-067a-7d14-2dc3-19aca4e1ba13.htm" />
+    <HelpKINode Title="methods" Url="html/0000185c-4dd9-2e3a-0c77-6189534d3796.htm" />
+    <HelpKINode Title="properties" Url="html/5cb1169c-42f1-aa10-4c82-2a0624723f8f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LimitedConcurrencyLevelTaskScheduler.GetScheduledTasks method" Url="html/52a49fc4-3311-ae56-9d74-bd22eddc335d.htm" />
+  <HelpKINode Title="LimitedConcurrencyLevelTaskScheduler.LimitedConcurrencyLevelTaskScheduler constructor" Url="html/c9619780-067a-7d14-2dc3-19aca4e1ba13.htm" />
+  <HelpKINode Title="LimitedConcurrencyLevelTaskScheduler.MaximumConcurrencyLevel property" Url="html/96edfbea-640f-f057-fcce-4e3d8760d613.htm" />
+  <HelpKINode Title="LimitedConcurrencyLevelTaskScheduler.QueueTask method" Url="html/e4658a2f-1df1-0a95-972f-243dfa974351.htm" />
+  <HelpKINode Title="LimitedConcurrencyLevelTaskScheduler.TryDequeue method" Url="html/1c491154-9a1a-508b-ef83-afcec47d2891.htm" />
+  <HelpKINode Title="LimitedConcurrencyLevelTaskScheduler.TryExecuteTaskInline method" Url="html/4844ce38-d3a6-19b5-2926-4201f0211feb.htm" />
+  <HelpKINode Title="machines field" Url="html/1094db10-7b2b-4cee-7961-8193a8fe0af7.htm" />
+  <HelpKINode Title="Main method" Url="html/7cd5656f-01a9-b2f2-3a78-dde5b861eb56.htm" />
+  <HelpKINode Title="MaximumConcurrencyLevel property" Url="html/96edfbea-640f-f057-fcce-4e3d8760d613.htm" />
+  <HelpKINode Title="milConfig field" Url="html/6ae4b2af-ac45-8bfe-7449-6165a630136c.htm" />
+  <HelpKINode Title="MillConfiguration class">
+    <HelpKINode Title="MillConfiguration Class" Url="html/f454e289-a452-0416-311c-7253d941144a.htm" />
+    <HelpKINode Title="constructor" Url="html/d3204ef2-e1bb-738c-98b6-b6356f9249f2.htm" />
+    <HelpKINode Title="fields" Url="html/a57910b3-a2d8-5e10-ee02-ac393981af17.htm" />
+    <HelpKINode Title="methods" Url="html/e1e90e18-3e43-3811-8bc6-f63c84e87d0d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MillConfiguration.machines field" Url="html/1094db10-7b2b-4cee-7961-8193a8fe0af7.htm" />
+  <HelpKINode Title="MillConfiguration.MillConfiguration constructor" Url="html/d3204ef2-e1bb-738c-98b6-b6356f9249f2.htm" />
+  <HelpKINode Title="MillConfiguration.setup_time field" Url="html/05cbfb47-8522-e137-86be-866dea527c32.htm" />
+  <HelpKINode Title="MillProductionResources class">
+    <HelpKINode Title="MillProductionResources Class" Url="html/d3d27abc-86f3-3214-d417-3cc38b59f5b3.htm" />
+    <HelpKINode Title="constructor" Url="html/5e3df4cf-761d-3d8c-e821-22771eb46bba.htm" />
+    <HelpKINode Title="fields" Url="html/55e0bd04-bcfe-cb81-ea00-93f263a350d6.htm" />
+    <HelpKINode Title="methods" Url="html/d8025ce1-74d0-c5c0-b379-c0da5b5df1a8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MillProductionResources.milConfig field" Url="html/6ae4b2af-ac45-8bfe-7449-6165a630136c.htm" />
+  <HelpKINode Title="MillProductionResources.MillProductionResources constructor" Url="html/5e3df4cf-761d-3d8c-e821-22771eb46bba.htm" />
+  <HelpKINode Title="MillProductionResources.orderBook field" Url="html/b300dc4b-7eb8-21d1-5f1f-a6d0129e863e.htm" />
+  <HelpKINode Title="MySqlConnectionRetriever class">
+    <HelpKINode Title="MySqlConnectionRetriever Class" Url="html/ab63e6a2-7954-9076-801f-390995d00cbf.htm" />
+    <HelpKINode Title="constructor" Url="html/f0d871a2-45ca-0649-0df9-cdbdf382cabc.htm" />
+    <HelpKINode Title="methods" Url="html/4832231e-3794-31cd-0a05-7cc1dac632e4.htm" />
+    <HelpKINode Title="properties" Url="html/4cd21c84-c3aa-2c56-d0b9-dfeeb8448a24.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MySqlConnectionRetriever.MySqlConnectionRetriever constructor" Url="html/f0d871a2-45ca-0649-0df9-cdbdf382cabc.htm" />
+  <HelpKINode Title="MySqlConnectionRetriever.RetrieveConnection property" Url="html/b270dc14-95d7-11d6-d89f-93487dd90349.htm" />
+  <HelpKINode Title="name field" Url="html/a39e3dbb-fc95-6681-2d94-3e61984b9a25.htm" />
+  <HelpKINode Title="Next method" Url="html/75ea2c48-7eef-0ce2-6f07-260211eef0a1.htm" />
+  <HelpKINode Title="NonDominatedSolutionSelector class">
+    <HelpKINode Title="NonDominatedSolutionSelector Class" Url="html/63ab500c-2015-a4da-dd7d-4e3d4e46e60a.htm" />
+    <HelpKINode Title="constructor" Url="html/9472dff0-e6ca-ae7d-c4ad-cfb635303250.htm" />
+    <HelpKINode Title="methods" Url="html/6db86c52-6791-5c8b-4141-303c78b7fbb6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NonDominatedSolutionSelector.NonDominatedSolutionSelector constructor" Url="html/9472dff0-e6ca-ae7d-c4ad-cfb635303250.htm" />
+  <HelpKINode Title="NonDominatedSolutionSelector.select method" Url="html/70540ace-4b3e-d2ab-f84d-7611ee38f41e.htm" />
+  <HelpKINode Title="NonZeroPopulationActivator class">
+    <HelpKINode Title="NonZeroPopulationActivator Class" Url="html/271e7a3a-4b0a-dd8c-c66e-b9b80bdd6857.htm" />
+    <HelpKINode Title="constructor" Url="html/e84572cb-621f-5cdd-9bcf-9435bed429f3.htm" />
+    <HelpKINode Title="methods" Url="html/fa226247-13c9-fec5-4ccc-f0d4504da99c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NonZeroPopulationActivator.activate method" Url="html/4289e72e-158d-ac17-e771-9a0ea85b4d6f.htm" />
+  <HelpKINode Title="NonZeroPopulationActivator.NonZeroPopulationActivator constructor" Url="html/e84572cb-621f-5cdd-9bcf-9435bed429f3.htm" />
+  <HelpKINode Title="ObjectExtensions class">
+    <HelpKINode Title="ObjectExtensions Class" Url="html/3af897a5-072a-b7a0-b427-e0517c20fef7.htm" />
+    <HelpKINode Title="methods" Url="html/d9d626c1-5a40-46e0-e594-61f6b1d01eab.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ObjectExtensions.Copy method" Url="html/a00d1165-7c83-aaa4-a486-aaca2ae76a0f.htm" />
+  <HelpKINode Title="ObjectExtensions.IsPrimitive method" Url="html/a20abf90-53aa-94d2-328b-d7392c3045fa.htm" />
+  <HelpKINode Title="Objective class">
+    <HelpKINode Title="Objective Class" Url="html/f518a921-a4fb-a141-ab2e-43d11c39175c.htm" />
+    <HelpKINode Title="constructor" Url="html/dcc4c62d-35cb-a595-b487-53ec8984a6d2.htm" />
+    <HelpKINode Title="fields" Url="html/39c08de8-edb7-64e0-0250-abd8acf537bd.htm" />
+    <HelpKINode Title="methods" Url="html/ef33f6d3-4344-dc56-b12c-1b9947a8e669.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Objective.active field" Url="html/0217a139-ed93-2523-7652-4e0dbfbdf41d.htm" />
+  <HelpKINode Title="Objective.evaluate method" Url="html/2978d51e-c400-80e7-1694-96e87cb6658e.htm" />
+  <HelpKINode Title="Objective.isAsc field" Url="html/4f22fbbb-c4fd-3aa8-3c36-3765ed422a9f.htm" />
+  <HelpKINode Title="Objective.name field" Url="html/a39e3dbb-fc95-6681-2d94-3e61984b9a25.htm" />
+  <HelpKINode Title="Objective.Objective constructor" Url="html/dcc4c62d-35cb-a595-b487-53ec8984a6d2.htm" />
+  <HelpKINode Title="Objective.precision field" Url="html/cdc1e903-fa23-ca37-2b7a-6ca7f4c2d510.htm" />
+  <HelpKINode Title="Objective.target field" Url="html/605e3f7f-3cc1-d2d6-ef55-477265033b3f.htm" />
+  <HelpKINode Title="objectiveEvaluation property">
+    <HelpKINode Title="ISolution.objectiveEvaluation Property " Url="html/656c06ff-ddd6-3838-ca54-9684a3dc8666.htm" />
+    <HelpKINode Title="Solution.objectiveEvaluation Property " Url="html/7c418a14-8450-6954-1327-654afd958dba.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ObjectiveLateHighPriorityOrders class">
+    <HelpKINode Title="ObjectiveLateHighPriorityOrders Class" Url="html/54e1aca1-4970-4a0e-f3a5-0d82ffdfedd0.htm" />
+    <HelpKINode Title="constructor" Url="html/069351f6-8797-2522-688c-027cb3cdc56c.htm" />
+    <HelpKINode Title="fields" Url="html/bfd3a575-76de-907d-72b2-2d5d45941296.htm" />
+    <HelpKINode Title="methods" Url="html/795e4349-cfaa-3acd-4e7a-43100e31659d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ObjectiveLateHighPriorityOrders.evaluate method" Url="html/cbac7b0d-c39d-e590-3662-3fedeee0283a.htm" />
+  <HelpKINode Title="ObjectiveLateHighPriorityOrders.ObjectiveLateHighPriorityOrders constructor" Url="html/069351f6-8797-2522-688c-027cb3cdc56c.htm" />
+  <HelpKINode Title="ObjectiveLateOrders class">
+    <HelpKINode Title="ObjectiveLateOrders Class" Url="html/06017eae-13e3-bb09-6201-16acd0c0cda9.htm" />
+    <HelpKINode Title="constructor" Url="html/263c30bb-8fad-8e56-55d4-a806d4fbd01b.htm" />
+    <HelpKINode Title="fields" Url="html/d759e4b7-23c7-c8f7-39d5-7f32da68341c.htm" />
+    <HelpKINode Title="methods" Url="html/b3fdc737-d073-b9d8-996b-28de4b37c946.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ObjectiveLateOrders.evaluate method" Url="html/7e875d03-b59b-b983-cd82-c122d6a64587.htm" />
+  <HelpKINode Title="ObjectiveLateOrders.ObjectiveLateOrders constructor" Url="html/263c30bb-8fad-8e56-55d4-a806d4fbd01b.htm" />
+  <HelpKINode Title="ObjectiveMachineBalancing class">
+    <HelpKINode Title="ObjectiveMachineBalancing Class" Url="html/b8034949-c534-2cc1-7e72-e568041c38e7.htm" />
+    <HelpKINode Title="constructor" Url="html/cbcedec1-c457-0afe-be6a-3a6a09eb18af.htm" />
+    <HelpKINode Title="fields" Url="html/fe7114ac-1fac-b559-f8e7-d3596171bcf9.htm" />
+    <HelpKINode Title="methods" Url="html/44ed59b8-3cb2-1973-958a-a11e42e65687.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ObjectiveMachineBalancing.evaluate method" Url="html/24e49be5-a1d7-7c99-b221-95e764e98b46.htm" />
+  <HelpKINode Title="ObjectiveMachineBalancing.ObjectiveMachineBalancing constructor" Url="html/cbcedec1-c457-0afe-be6a-3a6a09eb18af.htm" />
+  <HelpKINode Title="objectiveName property">
+    <HelpKINode Title="EvaluationResult.objectiveName Property " Url="html/7966f283-a675-97e8-d048-15a5ef68d3ae.htm" />
+    <HelpKINode Title="Rule.objectiveName Property " Url="html/42333f76-e6fc-45cd-875c-e90c4fad16f0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ObjectiveSetups class">
+    <HelpKINode Title="ObjectiveSetups Class" Url="html/d190d55f-c95a-0b8e-aa00-239c93ff9aa4.htm" />
+    <HelpKINode Title="constructor" Url="html/72247a9b-cf75-e622-6e98-71ddd433a407.htm" />
+    <HelpKINode Title="fields" Url="html/fe4ba29f-7238-8b8c-a1dc-a94f3ac0dccb.htm" />
+    <HelpKINode Title="methods" Url="html/6fdd54bc-3807-0983-70b0-de27608f5afe.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ObjectiveSetups.evaluate method" Url="html/15d36d3d-86a6-57ae-6fd8-07357be3d2cb.htm" />
+  <HelpKINode Title="ObjectiveSetups.ObjectiveSetups constructor" Url="html/72247a9b-cf75-e622-6e98-71ddd433a407.htm" />
+  <HelpKINode Title="objs property">
+    <HelpKINode Title="ISolutionManger.objs Property " Url="html/901f0ca4-a96e-fc47-416c-f8c5c27b2f87.htm" />
+    <HelpKINode Title="SolutionManager.objs Property " Url="html/869bfdf1-ddf5-e633-abd7-4a004f3628f1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Order class">
+    <HelpKINode Title="Order Class" Url="html/1205360d-30c0-ac09-9f81-8f61256479f4.htm" />
+    <HelpKINode Title="constructor" Url="html/bfae00a7-d82f-70fc-54c3-230ef9235cf5.htm" />
+    <HelpKINode Title="methods" Url="html/066011d8-43e5-b20d-8322-a96d0ba411cf.htm" />
+    <HelpKINode Title="properties" Url="html/0b03e236-af9b-c799-48bb-2d602928ea41.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Order.dueDate property" Url="html/953c7780-6911-e155-77ee-91b090dddfb4.htm" />
+  <HelpKINode Title="Order.highPriority property" Url="html/44991e4c-470f-4b56-6d40-9707d4df53dd.htm" />
+  <HelpKINode Title="Order.Order constructor" Url="html/bfae00a7-d82f-70fc-54c3-230ef9235cf5.htm" />
+  <HelpKINode Title="Order.orderId property" Url="html/99b8e5a1-4f9f-7808-20bd-f2d76dcecc0b.htm" />
+  <HelpKINode Title="Order.productCode property" Url="html/2f2a3bad-a0f3-cab5-bf14-a3d95bdd0a1d.htm" />
+  <HelpKINode Title="Order.productionCycles property" Url="html/d7e6bbb7-71c5-e84e-31e2-b6bedf18bd12.htm" />
+  <HelpKINode Title="OrderBook class">
+    <HelpKINode Title="OrderBook Class" Url="html/ecffb3da-d960-3959-6254-c5311c25f3c0.htm" />
+    <HelpKINode Title="constructor" Url="html/f7d9fc5b-75de-0eaa-95dc-341ba2ea16a7.htm" />
+    <HelpKINode Title="fields" Url="html/54df47a3-5231-3fde-405c-b7a1b514c3bb.htm" />
+    <HelpKINode Title="methods" Url="html/123bd15a-8ff4-566d-86a0-541ea12a28d1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="orderBook field" Url="html/b300dc4b-7eb8-21d1-5f1f-a6d0129e863e.htm" />
+  <HelpKINode Title="OrderBook.OrderBook constructor" Url="html/f7d9fc5b-75de-0eaa-95dc-341ba2ea16a7.htm" />
+  <HelpKINode Title="OrderBook.orders field" Url="html/f4b8fdc6-9bbd-7686-7738-da6b446ce557.htm" />
+  <HelpKINode Title="orderId property" Url="html/99b8e5a1-4f9f-7808-20bd-f2d76dcecc0b.htm" />
+  <HelpKINode Title="orders field" Url="html/f4b8fdc6-9bbd-7686-7738-da6b446ce557.htm" />
+  <HelpKINode Title="PapermillController class">
+    <HelpKINode Title="PapermillController Class" Url="html/08fb687f-c022-0388-91a9-ae164d0fe1b8.htm" />
+    <HelpKINode Title="constructor" Url="html/503b1523-1436-3d7a-4e60-42ef5017f377.htm" />
+    <HelpKINode Title="methods" Url="html/98a69667-3566-1d6e-30ff-b5778b48bf62.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PapermillController.Index method" Url="html/13faff9b-df14-bd64-2b30-4fb0bd11f9f0.htm" />
+  <HelpKINode Title="PapermillController.PapermillController constructor" Url="html/503b1523-1436-3d7a-4e60-42ef5017f377.htm" />
+  <HelpKINode Title="papermilldeploy namespace" Url="html/a22d6045-e053-ef9c-379a-c49af9774926.htm" />
+  <HelpKINode Title="papermilldeploy.Controllers namespace" Url="html/1aeba828-ef5d-b362-36a1-5199351afb44.htm" />
+  <HelpKINode Title="papermilldeploy.Controllers.EvaController class" Url="html/fbc8c468-8fc8-be5e-ac96-2e8aea9be76c.htm" />
+  <HelpKINode Title="papermilldeploy.Controllers.EvaController.RuleElements class" Url="html/3ba8f358-df96-bebf-8131-0df2b0efd358.htm" />
+  <HelpKINode Title="papermilldeploy.Controllers.PapermillController class" Url="html/08fb687f-c022-0388-91a9-ae164d0fe1b8.htm" />
+  <HelpKINode Title="papermilldeploy.Models namespace" Url="html/d3cdb6a9-b209-b707-fce4-2e25f609f0e5.htm" />
+  <HelpKINode Title="papermilldeploy.Models.ErrorViewModel class" Url="html/7239606b-f724-cd91-4bf0-267a9ed2ca2e.htm" />
+  <HelpKINode Title="papermilldeploy.Program class" Url="html/11b31016-e070-b0b1-8be1-2f09a10e783c.htm" />
+  <HelpKINode Title="papermilldeploy.Startup class" Url="html/320bfca9-f9e6-bca6-6304-fd57ba72ee8b.htm" />
+  <HelpKINode Title="papermilldeploy.WebCore namespace" Url="html/77f1c678-6136-aa00-c8b3-8917755316e5.htm" />
+  <HelpKINode Title="papermilldeploy.WebCore.MySqlConnectionRetriever class" Url="html/ab63e6a2-7954-9076-801f-390995d00cbf.htm" />
+  <HelpKINode Title="population property">
+    <HelpKINode Title="ISolutionManger.population Property " Url="html/e493d909-f214-8428-6e5c-b292cbbe5667.htm" />
+    <HelpKINode Title="SolutionManager.population Property " Url="html/8da3a9a9-ee78-b1b4-5b48-ef2b79edcb45.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PopulationSizeRangeActivator class">
+    <HelpKINode Title="PopulationSizeRangeActivator Class" Url="html/26845ca7-aecf-3f36-6fe6-6c3676f55a37.htm" />
+    <HelpKINode Title="constructor" Url="html/cf5889fe-418c-2c08-fbe1-0c725bcd7497.htm" />
+    <HelpKINode Title="methods" Url="html/b1d52b05-0af0-0a9e-c335-296a5df47bef.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PopulationSizeRangeActivator.activate method" Url="html/887a7466-af44-2acc-792c-3aa33e7f1a4b.htm" />
+  <HelpKINode Title="PopulationSizeRangeActivator.PopulationSizeRangeActivator constructor" Url="html/cf5889fe-418c-2c08-fbe1-0c725bcd7497.htm" />
+  <HelpKINode Title="precision field" Url="html/cdc1e903-fa23-ca37-2b7a-6ca7f4c2d510.htm" />
+  <HelpKINode Title="printStuff method">
+    <HelpKINode Title="ISolutionManger.printStuff Method " Url="html/cbeca989-8b80-fc4d-061e-e94c5b0ab840.htm" />
+    <HelpKINode Title="ProductionSolutionManager.printStuff Method " Url="html/299dcc41-55ce-a506-5675-a6c7206e0475.htm" />
+    <HelpKINode Title="SolutionManager.printStuff Method " Url="html/ada256a3-e0e8-4b84-e724-5bfb41041f5b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="productCode property" Url="html/2f2a3bad-a0f3-cab5-bf14-a3d95bdd0a1d.htm" />
+  <HelpKINode Title="productionCycles property" Url="html/d7e6bbb7-71c5-e84e-31e2-b6bedf18bd12.htm" />
+  <HelpKINode Title="ProductionSchedule class">
+    <HelpKINode Title="ProductionSchedule Class" Url="html/3a55fa32-6988-8bc3-bacb-4fd9c53771bd.htm" />
+    <HelpKINode Title="constructor" Url="html/83b3b65a-5abd-5958-5656-13e30140f427.htm" />
+    <HelpKINode Title="methods" Url="html/01cd44a1-32d8-3277-b115-aef1cfb0d724.htm" />
+    <HelpKINode Title="properties" Url="html/ccd5dbac-a4b3-12de-8045-7bc59612f07a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ProductionSchedule.doClone method" Url="html/05ca3a83-3378-a94e-57ab-4a239a3ad289.htm" />
+  <HelpKINode Title="ProductionSchedule.Equals method" Url="html/44a792e2-d98a-bdf0-d26f-61778945b8a8.htm" />
+  <HelpKINode Title="ProductionSchedule.GetHashCode method" Url="html/1490f845-d85e-8ef9-a164-b5d20e34d848.htm" />
+  <HelpKINode Title="ProductionSchedule.getProposedOrder method" Url="html/4fa1635f-1927-f80c-bf08-520083d31931.htm" />
+  <HelpKINode Title="ProductionSchedule.getResources method" Url="html/36304259-fbfc-e724-b074-ef99f74e7bf9.htm" />
+  <HelpKINode Title="ProductionSchedule.ProductionSchedule constructor" Url="html/83b3b65a-5abd-5958-5656-13e30140f427.htm" />
+  <HelpKINode Title="ProductionSchedule.SerializeData method" Url="html/7d8c1ea2-d742-bfef-6666-3e96d00f3cd2.htm" />
+  <HelpKINode Title="ProductionSchedule.setProposedList method" Url="html/60452f4a-ef78-079d-6966-678cb8a480fc.htm" />
+  <HelpKINode Title="ProductionSolutionManager class">
+    <HelpKINode Title="ProductionSolutionManager Class" Url="html/261b565b-491e-747e-5012-53acfa4059a6.htm" />
+    <HelpKINode Title="constructor" Url="html/b8a74dc7-4a28-14a3-020a-7289314801c6.htm" />
+    <HelpKINode Title="methods" Url="html/1e261f37-094b-c6b9-95e9-4199c5505513.htm" />
+    <HelpKINode Title="properties" Url="html/20f3d46c-cf03-6d76-0508-69111377d42a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ProductionSolutionManager.getSolutionsForABatchId method" Url="html/15bfbd5c-5287-beba-e77f-c9b0d7f4bdfe.htm" />
+  <HelpKINode Title="ProductionSolutionManager.printStuff method" Url="html/299dcc41-55ce-a506-5675-a6c7206e0475.htm" />
+  <HelpKINode Title="ProductionSolutionManager.ProductionSolutionManager constructor" Url="html/b8a74dc7-4a28-14a3-020a-7289314801c6.htm" />
+  <HelpKINode Title="Program class">
+    <HelpKINode Title="Program Class" Url="html/11b31016-e070-b0b1-8be1-2f09a10e783c.htm" />
+    <HelpKINode Title="constructor" Url="html/cd0bea09-e64b-1be0-f33b-23d12baaa0b5.htm" />
+    <HelpKINode Title="methods" Url="html/d16f4f4e-6bb0-be9a-6252-22d8dfca3916.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Program.CreateWebHostBuilder method" Url="html/b2a7fbc2-eb93-82f4-22f8-4015df4cd3ba.htm" />
+  <HelpKINode Title="Program.Main method" Url="html/7cd5656f-01a9-b2f2-3a78-dde5b861eb56.htm" />
+  <HelpKINode Title="Program.Program constructor" Url="html/cd0bea09-e64b-1be0-f33b-23d12baaa0b5.htm" />
+  <HelpKINode Title="QueueTask method" Url="html/e4658a2f-1df1-0a95-972f-243dfa974351.htm" />
+  <HelpKINode Title="RandomSolutionSelector class">
+    <HelpKINode Title="RandomSolutionSelector Class" Url="html/518c4d06-cd1f-4b0f-e2ad-f912d8ff399e.htm" />
+    <HelpKINode Title="constructor" Url="html/f01de718-4f98-1418-dc5c-e31b230e7e73.htm" />
+    <HelpKINode Title="methods" Url="html/21e3637c-a3aa-5bba-65d2-cd6139f288dd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RandomSolutionSelector.RandomSolutionSelector constructor" Url="html/f01de718-4f98-1418-dc5c-e31b230e7e73.htm" />
+  <HelpKINode Title="RandomSolutionSelector.select method" Url="html/dd929655-feb8-77c3-f73e-95f6480dcef9.htm" />
+  <HelpKINode Title="readFile method" Url="html/5c21ef3e-8f7a-d882-38ae-cec3b2f310c5.htm" />
+  <HelpKINode Title="ReadFileAndConvert method" Url="html/71431526-252b-ceb1-4051-5dabd7ae16a6.htm" />
+  <HelpKINode Title="ReferenceEqualityComparer class">
+    <HelpKINode Title="ReferenceEqualityComparer Class" Url="html/4da41233-e43e-91d9-beca-02233aa51b0a.htm" />
+    <HelpKINode Title="constructor" Url="html/33589dc5-1858-deb1-5ecd-bcad4e0ed1cb.htm" />
+    <HelpKINode Title="methods" Url="html/afe20e9e-410b-8b7a-2b1d-4cf7e4895cd2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ReferenceEqualityComparer.Equals method" Url="html/52b623aa-e1ca-6eb9-f48c-381ecf203b42.htm" />
+  <HelpKINode Title="ReferenceEqualityComparer.GetHashCode method" Url="html/f11b7098-197a-c728-289f-b35752c09171.htm" />
+  <HelpKINode Title="ReferenceEqualityComparer.ReferenceEqualityComparer constructor" Url="html/33589dc5-1858-deb1-5ecd-bcad4e0ed1cb.htm" />
+  <HelpKINode Title="RemoveDominatedSolutions class">
+    <HelpKINode Title="RemoveDominatedSolutions Class" Url="html/a5351ab0-2775-4535-861b-ce0ac85aaf8a.htm" />
+    <HelpKINode Title="constructor" Url="html/ab79265d-e68e-5788-5906-4571077ae674.htm" />
+    <HelpKINode Title="fields" Url="html/2b6bbd7f-facc-1b54-2c18-bf85bee56b1e.htm" />
+    <HelpKINode Title="methods" Url="html/57f3918c-6317-32d6-9913-7c0832e41158.htm" />
+    <HelpKINode Title="properties" Url="html/93244528-38ca-9935-f931-d6cc67c03d73.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RemoveDominatedSolutions.destroy method" Url="html/034c2b4d-7b2c-a4c4-f795-87998f2499ea.htm" />
+  <HelpKINode Title="RemoveDominatedSolutions.RemoveDominatedSolutions constructor" Url="html/ab79265d-e68e-5788-5906-4571077ae674.htm" />
+  <HelpKINode Title="RemoveDuplicates class">
+    <HelpKINode Title="RemoveDuplicates Class" Url="html/2e65b8d9-a7a4-e8b1-b198-12e1fc6c6171.htm" />
+    <HelpKINode Title="constructor" Url="html/b0abaa3c-10d1-75aa-9ce7-e58502d36a7e.htm" />
+    <HelpKINode Title="fields" Url="html/a9793449-0877-9102-d0a5-5a220b738b81.htm" />
+    <HelpKINode Title="methods" Url="html/b278613a-4dec-f325-e926-9fbf1b6abb88.htm" />
+    <HelpKINode Title="properties" Url="html/b12cb5e4-f230-d068-808a-300444f1034e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RemoveDuplicates.destroy method" Url="html/85f63ff7-098a-db27-d163-5bd56b3ab1e6.htm" />
+  <HelpKINode Title="RemoveDuplicates.RemoveDuplicates constructor" Url="html/b0abaa3c-10d1-75aa-9ce7-e58502d36a7e.htm" />
+  <HelpKINode Title="RequestId property" Url="html/524a3f4c-2809-bda0-1cd5-b618fcdc2bd2.htm" />
+  <HelpKINode Title="rerun method">
+    <HelpKINode Title="ISolutionManger.rerun Method " Url="html/81d29277-b25e-3684-279d-609cca4c6825.htm" />
+    <HelpKINode Title="SolutionManager.rerun Method " Url="html/1d8a604b-7fb2-f4bf-6fde-c55922763a49.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Resource class">
+    <HelpKINode Title="Resource Class" Url="html/dfd5cab7-fc59-9184-c060-84ec7ad5bebe.htm" />
+    <HelpKINode Title="constructor" Url="html/b4c41142-1171-cd34-7daf-7ee36535f188.htm" />
+    <HelpKINode Title="methods" Url="html/0e28fb93-6b5d-0cbd-5d00-ab4e22a10699.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Resource.Resource constructor" Url="html/b4c41142-1171-cd34-7daf-7ee36535f188.htm" />
+  <HelpKINode Title="RetrieveConnection property">
+    <HelpKINode Title="IConnectionRetriever.RetrieveConnection Property " Url="html/a484fc10-e0e5-72bc-65b3-4f7cdc3fe872.htm" />
+    <HelpKINode Title="MySqlConnectionRetriever.RetrieveConnection Property " Url="html/b270dc14-95d7-11d6-d89f-93487dd90349.htm" />
+  </HelpKINode>
+  <HelpKINode Title="rhs property" Url="html/2fc05322-df21-b724-4c0d-e0200ec99296.htm" />
+  <HelpKINode Title="Rule class">
+    <HelpKINode Title="Rule Class" Url="html/5b685bfa-839a-c694-f238-d2497a872e81.htm" />
+    <HelpKINode Title="constructor" Url="html/bb15387d-445e-57aa-23db-347a51bb0a84.htm" />
+    <HelpKINode Title="methods" Url="html/ad15b4d3-8dc0-22f6-ad38-5e6deef8a3df.htm" />
+    <HelpKINode Title="properties" Url="html/bc12958e-5714-5961-4536-1a0d4f7e8ba9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Rule.ComparisonOperator property" Url="html/1946caf9-b62c-d795-f089-18fdea977a0a.htm" />
+  <HelpKINode Title="Rule.ComparisonPredicate property" Url="html/77b552e5-c26c-d04b-5a97-d51275662944.htm" />
+  <HelpKINode Title="Rule.ComparisonValue property" Url="html/061ad0d6-3172-d4f9-b482-72d3eb1022e5.htm" />
+  <HelpKINode Title="Rule.objectiveName property" Url="html/42333f76-e6fc-45cd-875c-e90c4fad16f0.htm" />
+  <HelpKINode Title="Rule.Rule constructor" Url="html/bb15387d-445e-57aa-23db-347a51bb0a84.htm" />
+  <HelpKINode Title="RuleElements class">
+    <HelpKINode Title="methods" Url="html/b86eda63-1c7a-3c26-41b8-55d078c1cba3.htm" />
+    <HelpKINode Title="properties" Url="html/27a114f2-e0f7-e61c-4641-1abcc3c3e7ff.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RulesExpressionGenerator class">
+    <HelpKINode Title="RulesExpressionGenerator Class" Url="html/d1a8bdd9-7cf2-9875-c5a1-23ccfb1e9825.htm" />
+    <HelpKINode Title="constructor" Url="html/f68eaafb-bf52-bbb2-2c64-5c41c3bd6854.htm" />
+    <HelpKINode Title="methods" Url="html/174df1fc-b13c-bc37-e9dc-38e1a856bab9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RulesExpressionGenerator.CreateRuleExpression(Of T) method" Url="html/17f41876-46c8-0424-e226-a6c7d7d2f7b4.htm" />
+  <HelpKINode Title="RulesExpressionGenerator.CreateRuleExpression&lt;T&gt; method" Url="html/17f41876-46c8-0424-e226-a6c7d7d2f7b4.htm" />
+  <HelpKINode Title="RulesExpressionGenerator.RulesExpressionGenerator constructor" Url="html/f68eaafb-bf52-bbb2-2c64-5c41c3bd6854.htm" />
+  <HelpKINode Title="run method">
+    <HelpKINode Title="Agent.run Method " Url="html/4fcde0ce-46c1-063e-b0be-e19f4765bc7e.htm" />
+    <HelpKINode Title="CreaterAgent.run Method " Url="html/9fd0180d-976a-f6eb-35cb-fad05ff98558.htm" />
+    <HelpKINode Title="DestroyerAgent.run Method " Url="html/288ae16d-eb41-809b-a0cd-0e6fd251758a.htm" />
+    <HelpKINode Title="IAgent.run Method " Url="html/4e4be559-fd02-2aca-d6b4-74664a35a1f7.htm" />
+    <HelpKINode Title="ISolutionManger.run Method " Url="html/d78e0033-b3f8-3f03-f2cb-b358afbdb8a2.htm" />
+    <HelpKINode Title="SolutionManager.run Method " Url="html/e3067369-dd04-2256-e5e7-a5edcc9571ea.htm" />
+    <HelpKINode Title="WorkerAgent.run Method " Url="html/eefd2dc2-4ae0-4cce-00a7-7bfc1e8c57be.htm" />
+  </HelpKINode>
+  <HelpKINode Title="runeva method" Url="html/2c693262-1f0b-0d87-b8db-de6f6d98867b.htm" />
+  <HelpKINode Title="runWithRules method" Url="html/1acd6b5d-5f2e-e37c-0a7a-a7a3a776ee3d.htm" />
+  <HelpKINode Title="runWithSolutions method">
+    <HelpKINode Title="AgentAdvanceLateOrders.runWithSolutions Method " Url="html/4741a7b4-71d4-16e4-9bab-6c1713d8fcfd.htm" />
+    <HelpKINode Title="AgentMoveRandomOrder.runWithSolutions Method " Url="html/c79c98b5-09d3-b9d5-8414-21ac7bcc9daa.htm" />
+    <HelpKINode Title="AgentSortByDueDate.runWithSolutions Method " Url="html/02a51d1a-f66a-2652-1b16-737320909d60.htm" />
+    <HelpKINode Title="WorkerAgent.runWithSolutions Method " Url="html/60a7498e-6547-01e1-5d0a-da4b5f80b6e9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SecureRandom class">
+    <HelpKINode Title="SecureRandom Class" Url="html/6a11ae2c-2743-fe3f-d0d9-4464c0c50163.htm" />
+    <HelpKINode Title="constructor" Url="html/b1be1e6c-bfe3-00c6-36ec-1c1f263c633b.htm" />
+    <HelpKINode Title="methods" Url="html/01fbe154-5fab-806c-14f6-04f9b824f33d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SecureRandom.GetBytes method" Url="html/8050af8d-eeef-bd58-7be1-cfefbc4a35c0.htm" />
+  <HelpKINode Title="SecureRandom.GetNonZeroBytes method" Url="html/8ec4939e-b999-a6bf-b9ef-eb3b84ae6799.htm" />
+  <HelpKINode Title="SecureRandom.Next method" Url="html/75ea2c48-7eef-0ce2-6f07-260211eef0a1.htm" />
+  <HelpKINode Title="SecureRandom.SecureRandom constructor" Url="html/b1be1e6c-bfe3-00c6-36ec-1c1f263c633b.htm" />
+  <HelpKINode Title="select method">
+    <HelpKINode Title="Agent.select Method " Url="html/146b8412-40b5-9ba2-c867-fcf35ba2ce93.htm" />
+    <HelpKINode Title="DefaultSolutionSelector.select Method " Url="html/5924997a-b307-a612-2b78-d46b1a9f7819.htm" />
+    <HelpKINode Title="DuplicateSolutionSelector.select Method " Url="html/20ef8b53-9a55-d06c-1bee-76c86655eaa2.htm" />
+    <HelpKINode Title="IAgent.select Method " Url="html/0f075380-4cd4-10fb-0f0a-9bf23da6b286.htm" />
+    <HelpKINode Title="ISelector.select Method " Url="html/aa02b485-87b1-5554-76f2-5ef3e3cf7bfd.htm" />
+    <HelpKINode Title="NonDominatedSolutionSelector.select Method " Url="html/70540ace-4b3e-d2ab-f84d-7611ee38f41e.htm" />
+    <HelpKINode Title="RandomSolutionSelector.select Method " Url="html/dd929655-feb8-77c3-f73e-95f6480dcef9.htm" />
+    <HelpKINode Title="Selectors.select Method " Url="html/78a7a178-836f-7562-5fbc-ab66f090a1ce.htm" />
+    <HelpKINode Title="UserEnabledSelectors.select Method " Url="html/1b9ca9bf-92d1-e24f-6da2-ee6f305ded39.htm" />
+  </HelpKINode>
+  <HelpKINode Title="selector property">
+    <HelpKINode Title="Agent.selector Property " Url="html/25c7d4d4-fdbd-fe60-f28c-ed8ee314f335.htm" />
+    <HelpKINode Title="IAgent.selector Property " Url="html/c0047087-6b12-1217-24c7-3698f2715be8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Selectors class">
+    <HelpKINode Title="Selectors Class" Url="html/fa8e65d8-a4d2-fe10-5ad1-36f9a71e6145.htm" />
+    <HelpKINode Title="constructor" Url="html/458f7d2c-e1fd-5ec0-3a58-21ca62053cc8.htm" />
+    <HelpKINode Title="methods" Url="html/29dda698-ce86-e7cd-eb83-3fa0f818df5b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Selectors.select method" Url="html/78a7a178-836f-7562-5fbc-ab66f090a1ce.htm" />
+  <HelpKINode Title="Selectors.Selectors constructor" Url="html/458f7d2c-e1fd-5ec0-3a58-21ca62053cc8.htm" />
+  <HelpKINode Title="SerializeData method">
+    <HelpKINode Title="ProductionSchedule.SerializeData Method " Url="html/7d8c1ea2-d742-bfef-6666-3e96d00f3cd2.htm" />
+    <HelpKINode Title="Solution.SerializeData Method " Url="html/2fb47b29-18b6-0b14-bf9d-a48ca4cd3057.htm" />
+  </HelpKINode>
+  <HelpKINode Title="setProposedList method" Url="html/60452f4a-ef78-079d-6966-678cb8a480fc.htm" />
+  <HelpKINode Title="SetResource method" Url="html/4223f4ca-bc24-cfef-b10a-330575de77de.htm" />
+  <HelpKINode Title="setup_time field" Url="html/05cbfb47-8522-e137-86be-866dea527c32.htm" />
+  <HelpKINode Title="ShowRequestId property" Url="html/afc6922c-f7b6-996e-ca5f-4a1ea89509e0.htm" />
+  <HelpKINode Title="slnManager field" Url="html/78a136f1-5e23-c5ce-79e0-ccbc3e358307.htm" />
+  <HelpKINode Title="Solution class">
+    <HelpKINode Title="Solution Class" Url="html/c9064e16-74f5-c16e-aaf3-0cd6413bd209.htm" />
+    <HelpKINode Title="constructor" Url="html/679ae379-7e32-3574-b866-dfc0f6af6256.htm" />
+    <HelpKINode Title="methods" Url="html/47ea5ac6-3e5c-26a8-7ce0-319cb0dea973.htm" />
+    <HelpKINode Title="properties" Url="html/1a6deff0-7a10-0e0e-482e-9e2fe7b33c11.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Solution.batchid property" Url="html/03aedec8-aaa1-2ad6-9e95-cb4adc30791c.htm" />
+  <HelpKINode Title="Solution.doClone method" Url="html/be6bae82-6b34-a7cf-3661-988f499ebd2e.htm" />
+  <HelpKINode Title="Solution.GetObjectData method" Url="html/a7b6702c-bddd-2062-4583-c64c78ab1787.htm" />
+  <HelpKINode Title="Solution.objectiveEvaluation property" Url="html/7c418a14-8450-6954-1327-654afd958dba.htm" />
+  <HelpKINode Title="Solution.SerializeData method" Url="html/2fb47b29-18b6-0b14-bf9d-a48ca4cd3057.htm" />
+  <HelpKINode Title="Solution.Solution constructor" Url="html/679ae379-7e32-3574-b866-dfc0f6af6256.htm" />
+  <HelpKINode Title="Solution.solutionid property" Url="html/801bc478-aa32-5887-f232-7f073771bfc7.htm" />
+  <HelpKINode Title="solutionid property">
+    <HelpKINode Title="ISolution.solutionid Property " Url="html/497aaed1-efa2-76a7-293f-7c691f08f10b.htm" />
+    <HelpKINode Title="Solution.solutionid Property " Url="html/801bc478-aa32-5887-f232-7f073771bfc7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SolutionIdGenerator class">
+    <HelpKINode Title="SolutionIdGenerator Class" Url="html/38cf7fa9-335f-773f-c749-5b825c8ce110.htm" />
+    <HelpKINode Title="constructor" Url="html/6c8ad02d-4d06-eba6-2647-9706a82e96f0.htm" />
+    <HelpKINode Title="methods" Url="html/dda15513-dd95-c722-2075-cc73c02497e9.htm" />
+    <HelpKINode Title="properties" Url="html/7c532b83-9fcf-77a9-e367-c798b6af4461.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SolutionIdGenerator.dbapi property" Url="html/973079b0-618b-398e-4bfb-ef8052098a69.htm" />
+  <HelpKINode Title="SolutionIdGenerator.getId method" Url="html/789649ee-de04-2f9a-4a57-e1d768d364b4.htm" />
+  <HelpKINode Title="SolutionIdGenerator.SolutionIdGenerator constructor" Url="html/6c8ad02d-4d06-eba6-2647-9706a82e96f0.htm" />
+  <HelpKINode Title="SolutionManager class">
+    <HelpKINode Title="SolutionManager Class" Url="html/bda5f085-8948-97cd-4cd1-7dd390e1ae73.htm" />
+    <HelpKINode Title="constructor" Url="html/98a8b33c-67f2-77e7-811d-89ded295b021.htm" />
+    <HelpKINode Title="methods" Url="html/f1bb322b-0207-3d11-a8e7-82fc1f89efdb.htm" />
+    <HelpKINode Title="properties" Url="html/47610a51-4ab1-d48b-d3d5-84e0c82e4a08.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SolutionManager.addSolutions method" Url="html/8e0504e5-4a38-4972-6da1-d8fe1aad3b42.htm" />
+  <HelpKINode Title="SolutionManager.batchid property" Url="html/908ba88c-7df5-4e8d-2eca-a30066751b05.htm" />
+  <HelpKINode Title="SolutionManager.cleanup method" Url="html/bb03ede0-7410-f95e-e6bf-b3b166b1fcb6.htm" />
+  <HelpKINode Title="SolutionManager.ConnectionRetriever property" Url="html/b3a41925-7ca3-0abe-9762-9f19bbf3768b.htm" />
+  <HelpKINode Title="SolutionManager.createrAgents property" Url="html/30156fd0-15c8-158c-6035-9e06cca78a2e.htm" />
+  <HelpKINode Title="SolutionManager.DbApi property" Url="html/bb55bb32-f59a-9413-f277-9a756cd94a16.htm" />
+  <HelpKINode Title="SolutionManager.destroyerAgents property" Url="html/81f3fd19-10fc-5475-ed4e-34d6fd6e20b6.htm" />
+  <HelpKINode Title="SolutionManager.fetchBatchId method" Url="html/d738a604-91af-cede-df07-012826c56b1a.htm" />
+  <HelpKINode Title="SolutionManager.gen property" Url="html/dbd58c1c-c931-b33c-d3f3-e9e07a5da2a0.htm" />
+  <HelpKINode Title="SolutionManager.GetResource method" Url="html/8e943460-d585-e37c-87eb-68b73acc9d68.htm" />
+  <HelpKINode Title="SolutionManager.getSolutionsForABatchId method" Url="html/febe19f3-951f-bf3b-e5ea-5d2039a1e636.htm" />
+  <HelpKINode Title="SolutionManager.objs property" Url="html/869bfdf1-ddf5-e633-abd7-4a004f3628f1.htm" />
+  <HelpKINode Title="SolutionManager.population property" Url="html/8da3a9a9-ee78-b1b4-5b48-ef2b79edcb45.htm" />
+  <HelpKINode Title="SolutionManager.printStuff method" Url="html/ada256a3-e0e8-4b84-e724-5bfb41041f5b.htm" />
+  <HelpKINode Title="SolutionManager.rerun method" Url="html/1d8a604b-7fb2-f4bf-6fde-c55922763a49.htm" />
+  <HelpKINode Title="SolutionManager.run method" Url="html/e3067369-dd04-2256-e5e7-a5edcc9571ea.htm" />
+  <HelpKINode Title="SolutionManager.SetResource method" Url="html/4223f4ca-bc24-cfef-b10a-330575de77de.htm" />
+  <HelpKINode Title="SolutionManager.SolutionManager constructor" Url="html/98a8b33c-67f2-77e7-811d-89ded295b021.htm" />
+  <HelpKINode Title="SolutionManager.workerAgents property" Url="html/03355d66-8f76-63f7-26eb-3970f02f0d9e.htm" />
+  <HelpKINode Title="Startup class">
+    <HelpKINode Title="Startup Class" Url="html/320bfca9-f9e6-bca6-6304-fd57ba72ee8b.htm" />
+    <HelpKINode Title="constructor" Url="html/d1fb1ede-cd36-ce2e-c3e6-7b6e0fb78d4e.htm" />
+    <HelpKINode Title="methods" Url="html/aab05e92-e1b1-c5be-fb88-7863aecff432.htm" />
+    <HelpKINode Title="properties" Url="html/e590b9cd-6ab8-5c4a-9b07-ccb4971d0e54.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Startup.Configuration property" Url="html/288e711f-53d5-68b9-d20d-a17ad3e4ce64.htm" />
+  <HelpKINode Title="Startup.Configure method" Url="html/fc77ff0d-76c0-11e8-bf51-e0c274414ced.htm" />
+  <HelpKINode Title="Startup.ConfigureServices method" Url="html/8cd44c48-e376-f2e9-4696-e91695177b89.htm" />
+  <HelpKINode Title="Startup.Startup constructor" Url="html/d1fb1ede-cd36-ce2e-c3e6-7b6e0fb78d4e.htm" />
+  <HelpKINode Title="target field" Url="html/605e3f7f-3cc1-d2d6-ef55-477265033b3f.htm" />
+  <HelpKINode Title="TextFileReader(Of T) class">
+    <HelpKINode Title="TextFileReader(T) Class" Url="html/53257085-0ebe-c24b-1cf2-c92f271760a6.htm" />
+    <HelpKINode Title="constructor" Url="html/af2310db-1136-0568-d6a3-06eeee8a9bf1.htm" />
+    <HelpKINode Title="methods" Url="html/fabf3a1f-fc27-9a31-b231-5abb09f12a7e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TextFileReader(Of T).readFile method" Url="html/5c21ef3e-8f7a-d882-38ae-cec3b2f310c5.htm" />
+  <HelpKINode Title="TextFileReader(Of T).ReadFileAndConvert method" Url="html/71431526-252b-ceb1-4051-5dabd7ae16a6.htm" />
+  <HelpKINode Title="TextFileReader(Of T).TextFileReader constructor" Url="html/af2310db-1136-0568-d6a3-06eeee8a9bf1.htm" />
+  <HelpKINode Title="TextFileReader&lt;T&gt; class">
+    <HelpKINode Title="TextFileReader(T) Class" Url="html/53257085-0ebe-c24b-1cf2-c92f271760a6.htm" />
+    <HelpKINode Title="constructor" Url="html/af2310db-1136-0568-d6a3-06eeee8a9bf1.htm" />
+    <HelpKINode Title="methods" Url="html/fabf3a1f-fc27-9a31-b231-5abb09f12a7e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TextFileReader&lt;T&gt;.readFile method" Url="html/5c21ef3e-8f7a-d882-38ae-cec3b2f310c5.htm" />
+  <HelpKINode Title="TextFileReader&lt;T&gt;.ReadFileAndConvert method" Url="html/71431526-252b-ceb1-4051-5dabd7ae16a6.htm" />
+  <HelpKINode Title="TextFileReader&lt;T&gt;.TextFileReader constructor" Url="html/af2310db-1136-0568-d6a3-06eeee8a9bf1.htm" />
+  <HelpKINode Title="TryDequeue method" Url="html/1c491154-9a1a-508b-ef83-afcec47d2891.htm" />
+  <HelpKINode Title="TryExecuteTaskInline method" Url="html/4844ce38-d3a6-19b5-2926-4201f0211feb.htm" />
+  <HelpKINode Title="UserEnabledDestroyer class">
+    <HelpKINode Title="UserEnabledDestroyer Class" Url="html/ac44a28d-45a8-45b9-52f7-f72035bfd8bd.htm" />
+    <HelpKINode Title="constructor" Url="html/66e90dc4-a3d5-eb12-2b74-3ff5d8b69949.htm" />
+    <HelpKINode Title="fields" Url="html/8db0f7c1-17e3-667a-d3bf-22f0008f523a.htm" />
+    <HelpKINode Title="methods" Url="html/e54b0dcb-27a3-d1db-4b8e-15d3a263a7c4.htm" />
+    <HelpKINode Title="properties" Url="html/7b9828ba-5921-dfdc-8a5a-8dc8a31e149a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UserEnabledDestroyer.destroy method" Url="html/6259f00a-cd9d-7427-3421-0f536a79f7b8.htm" />
+  <HelpKINode Title="UserEnabledDestroyer.UserEnabledDestroyer constructor" Url="html/66e90dc4-a3d5-eb12-2b74-3ff5d8b69949.htm" />
+  <HelpKINode Title="UserEnabledSelectors class">
+    <HelpKINode Title="UserEnabledSelectors Class" Url="html/a9e320cd-8a37-c1b3-06cd-04849b774395.htm" />
+    <HelpKINode Title="constructor" Url="html/d26454d0-8994-e29b-e290-6eceb8d0fc44.htm" />
+    <HelpKINode Title="methods" Url="html/ec096797-ae6e-98a4-20de-d08ca9d684bd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UserEnabledSelectors.select method" Url="html/1b9ca9bf-92d1-e24f-6da2-ee6f305ded39.htm" />
+  <HelpKINode Title="UserEnabledSelectors.UserEnabledSelectors constructor" Url="html/d26454d0-8994-e29b-e290-6eceb8d0fc44.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/72ddc0c4-6d44-4396-9548-70be16b61f52.htm" />
+    <HelpKINode Title="history" Url="html/619dd534-3a7b-43dd-9d4c-92c28c92d71a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/37e50853-0cbc-45f1-bce8-26b962939e6a.htm" />
+  <HelpKINode Title="WorkerAgent class">
+    <HelpKINode Title="WorkerAgent Class" Url="html/f03fd5ba-2ee4-49c8-1397-fe9bcc19aa95.htm" />
+    <HelpKINode Title="constructor" Url="html/701bf1db-9957-5e50-17b5-20e1c007e797.htm" />
+    <HelpKINode Title="methods" Url="html/e396c1e8-41b7-cdc4-cf22-119580f18f16.htm" />
+    <HelpKINode Title="properties" Url="html/869977dd-f44b-8531-a1f0-d089b60592da.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WorkerAgent.run method" Url="html/eefd2dc2-4ae0-4cce-00a7-7bfc1e8c57be.htm" />
+  <HelpKINode Title="WorkerAgent.runWithSolutions method" Url="html/60a7498e-6547-01e1-5d0a-da4b5f80b6e9.htm" />
+  <HelpKINode Title="WorkerAgent.WorkerAgent constructor" Url="html/701bf1db-9957-5e50-17b5-20e1c007e797.htm" />
+  <HelpKINode Title="workerAgents property">
+    <HelpKINode Title="ISolutionManger.workerAgents Property " Url="html/08ca9077-dbd4-c1f4-62f6-20b1d22f46f3.htm" />
+    <HelpKINode Title="SolutionManager.workerAgents Property " Url="html/03355d66-8f76-63f7-26eb-3970f02f0d9e.htm" />
+  </HelpKINode>
+</HelpKI>

@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>papermilldeploy</name>
+    </assembly>
+    <members>
+        <member name="T:papermilldeploy.Controllers.EvaController">
+            <summary>
+            Controller for handleing requests
+            </summary>
+        </member>
+        <member name="F:papermilldeploy.Controllers.EvaController._config">
+            <summary>
+            The config file containing stuff
+            </summary>
+        </member>
+        <member name="M:papermilldeploy.Controllers.EvaController.runeva">
+            <summary>
+            takes a form input with a file reads it and runs the optimizer
+            </summary>
+            <returns>the solutions to be displayed</returns>
+        </member>
+        <member name="M:papermilldeploy.Controllers.EvaController.fetchSolutionDetails(System.Int32,System.Int32)">
+            <summary>
+            Gets details of particular solution
+            </summary>
+            <param name="solutionId">the solution id</param>
+            <param name="batchId">the batch id</param>
+            <returns>the solution</returns>
+        </member>
+        <member name="M:papermilldeploy.Controllers.EvaController.getObjectives">
+            <summary>
+            fetches the objectives of a solution manager
+            </summary>
+            <returns>the objectives</returns>
+        </member>
+        <member name="T:papermilldeploy.Controllers.EvaController.RuleElements">
+            <summary>
+            A class representing the structure of a rule
+            </summary>
+        </member>
+        <member name="P:papermilldeploy.Controllers.EvaController.RuleElements.lhs">
+            <summary>
+            The left hand side of the rule
+            </summary>
+        </member>
+        <member name="P:papermilldeploy.Controllers.EvaController.RuleElements.rhs">
+            <summary>
+            The right hand side of the rule
+            </summary>
+        </member>
+        <member name="P:papermilldeploy.Controllers.EvaController.RuleElements.equality">
+            <summary>
+            The equality sign of the rule
+            </summary>
+        </member>
+        <member name="M:papermilldeploy.Controllers.EvaController.runWithRules">
+            <summary>
+            takes rules and batch id as input form
+            </summary>
+            <returns>the solution after running them against the rules</returns>
+        </member>
+        <member name="M:papermilldeploy.Controllers.EvaController.convertToRuleList(System.Collections.Generic.List{papermilldeploy.Controllers.EvaController.RuleElements})">
+            <summary>
+            do it in an elegant way please
+            </summary>
+            <param name="ruleDefinations"></param>
+            <returns></returns>
+        </member>
+        <member name="M:papermilldeploy.Controllers.EvaController.SerializeAndReturn(System.Object)">
+            <summary>
+            Serializes the object using JavaScriptSerializer
+            </summary>
+            <param name="objectToWrap">the object to serialize</param>
+            <returns>the serialized object</returns>
+        </member>
+        <member name="M:papermilldeploy.Controllers.EvaController.DeserializeData``1(System.String)">
+            <summary>
+            Deserializes a string using JavaScriptSerializer
+            </summary>
+            <typeparam name="T">the object to be returned</typeparam>
+            <param name="data">the data to deserialize</param>
+            <returns>the deserialized object</returns>
+        </member>
+        <member name="T:papermilldeploy.Controllers.PapermillController">
+            <summary>
+            Controller handeling the view
+            </summary>
+        </member>
+        <member name="M:papermilldeploy.Controllers.PapermillController.Index">
+            <summary>
+            Returns the View
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:papermilldeploy.Models.ErrorViewModel">
+            <summary>
+            The error Model
+            </summary>
+        </member>
+        <member name="P:papermilldeploy.Models.ErrorViewModel.RequestId">
+            <summary>
+            The request id which errored
+            </summary>
+        </member>
+        <member name="P:papermilldeploy.Models.ErrorViewModel.ShowRequestId">
+            <summary>
+            Returns the request id
+            </summary>
+        </member>
+        <member name="T:papermilldeploy.Program">
+            <summary>
+            Asp.net core executing class
+            </summary>
+        </member>
+        <member name="M:papermilldeploy.Program.Main(System.String[])">
+            <summary>
+            The main method
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:papermilldeploy.Program.CreateWebHostBuilder(System.String[])">
+            <summary>
+            creates a webhost builder
+            </summary>
+            <param name="args">The aruduments to the asp.net core application</param>
+            <returns>Returns a WebHost Builder</returns>
+        </member>
+        <member name="T:papermilldeploy.Startup">
+            <summary>
+            Asp.net core startup
+            </summary>
+        </member>
+        <member name="M:papermilldeploy.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Asp.net core start up
+            </summary>
+            <param name="configuration">the configureation for the application</param>
+        </member>
+        <member name="P:papermilldeploy.Startup.Configuration">
+            <summary>
+            A property containing the config
+            </summary>
+        </member>
+        <member name="M:papermilldeploy.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            This method gets called by the runtime. Use this method to add services to the container.
+            </summary>
+            <param name="services"> the services to be registered with the asp.net core application</param>
+        </member>
+        <member name="M:papermilldeploy.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+            This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+            </summary>
+            <param name="app">The app</param>
+            <param name="env">The enviornment</param>
+        </member>
+        <member name="T:papermilldeploy.WebCore.MySqlConnectionRetriever">
+            <summary>
+            Class responsible to fetch connection string from the web config
+            </summary>
+        </member>
+        <member name="F:papermilldeploy.WebCore.MySqlConnectionRetriever._iconfiguration">
+            <summary>
+            The web application config
+            </summary>
+        </member>
+        <member name="P:papermilldeploy.WebCore.MySqlConnectionRetriever.RetrieveConnection">
+            <summary>
+            A function to return the connection string
+            </summary>
+        </member>
+        <member name="M:papermilldeploy.WebCore.MySqlConnectionRetriever.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Constructor accepting the application config
+            </summary>
+            <param name="configuration">The config to be passed on to the connection retriever</param>
+        </member>
+        <member name="M:papermilldeploy.WebCore.MySqlConnectionRetriever.readConnectionFromWebConfig">
+            <summary>
+            reads and returns the connection string
+            </summary>
+            <returns>the connection string</returns>
+        </member>
+    </members>
+</doc>

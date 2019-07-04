@@ -12,16 +12,29 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace papermilldeploy
 {
+    /// <summary>
+    /// Asp.net core startup
+    /// </summary>
     public class Startup
     {
+        /// <summary>
+        /// Asp.net core start up
+        /// </summary>
+        /// <param name="configuration">the configureation for the application</param>
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
         }
 
+        /// <summary>
+        /// A property containing the config
+        /// </summary>
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
+        /// <summary>
+        /// This method gets called by the runtime. Use this method to add services to the container.
+        /// </summary>
+        /// <param name="services"> the services to be registered with the asp.net core application</param>
         public void ConfigureServices(IServiceCollection services)
         {
             services.Configure<CookiePolicyOptions>(options =>
@@ -37,7 +50,11 @@ namespace papermilldeploy
             services.AddSingleton<IConfiguration>(Configuration);
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        /// <summary>
+        /// This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        /// </summary>
+        /// <param name="app">The app</param>
+        /// <param name="env">The enviornment</param>
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             if (env.IsDevelopment())

@@ -6,8 +6,15 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace papermilldeploy.Controllers
 {
+    /// <summary>
+    /// Controller handeling the view
+    /// </summary>
     public class PapermillController : Controller
     {
+        /// <summary>
+        /// Returns the View
+        /// </summary>
+        /// <returns></returns>
         public IActionResult Index()
         {
             return View();

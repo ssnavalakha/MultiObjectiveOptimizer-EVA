@@ -64,6 +64,9 @@ namespace eva.core.framework.framework
          /// </summary>
          private BlockingCollection<ISolution> deletedSolutionsStream;
 
+        /// <summary>
+        /// Used just to print stuff
+        /// </summary>
         public abstract void printStuff();
 
          /// <summary>

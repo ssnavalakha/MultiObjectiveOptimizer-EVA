@@ -10,7 +10,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eva.example.mill", "eva.exa
 		{649BFAB8-33BB-4D62-8E66-4A725615D8AD} = {649BFAB8-33BB-4D62-8E66-4A725615D8AD}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "papermilldeploy", "papermilldeploy\papermilldeploy.csproj", "{B4FE79C0-8B5C-4E7A-ACBA-196E06374040}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "papermilldeploy", "papermilldeploy\papermilldeploy.csproj", "{B4FE79C0-8B5C-4E7A-ACBA-196E06374040}"
+EndProject
+Project("{7CF6DF6D-3B04-46F8-A40B-537D21BCA0B4}") = "Documentation", "Documentation\Documentation.shfbproj", "{4DBC0B49-6749-4E23-865A-B7F684DFD0BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,6 +32,9 @@ Global
 		{B4FE79C0-8B5C-4E7A-ACBA-196E06374040}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4FE79C0-8B5C-4E7A-ACBA-196E06374040}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4FE79C0-8B5C-4E7A-ACBA-196E06374040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DBC0B49-6749-4E23-865A-B7F684DFD0BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DBC0B49-6749-4E23-865A-B7F684DFD0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DBC0B49-6749-4E23-865A-B7F684DFD0BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
